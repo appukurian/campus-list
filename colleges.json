@@ -1,0 +1,83 @@
+[
+    {
+        "slno": 1,
+        "name": "Sri. C. Achutha Menon Government College, Kuttanellur",
+        "address": "Sri. C. Achutha Menon Government College, Kuttanellur, Thrissur",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 2,
+        "name": "Panampilly Memorial Government College, Chalakkudy",
+        "address": "Panampilly Memorial\u00a0Government College, Chalakkudy, Potta\u00a0 PO, Thrissur-680 307",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 3,
+        "name": "KKTM Government College, Pullut",
+        "address": "KKTM Government College, Pullut, Thrissur-680 663",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 4,
+        "name": "Vimala College, Thrissur",
+        "address": "Vimala College, Thrissur-680 009",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 5,
+        "name": "St Mary\u2019s College, Thrissur",
+        "address": "St. Mary's College, Thrissur-680 020",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 6,
+        "name": "Sree Krishna College, Guruvayoor",
+        "address": "Sree Krishna College, Guruvayur, Ariyannur PO, Thrissur-680 102",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 7,
+        "name": "St. Joseph College, Irinjalakuda",
+        "address": "St. Joseph's College, Irinjalakuda, Thrissur-680 121",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 8,
+        "name": "Christ College, Irinjalakuda",
+        "address": "Christ College, Irinjalakuda, Thrissur-680 125",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    },
+    {
+        "slno": 9,
+        "name": "Sree Narayana College, Nattika",
+        "address": "Sree Narayana College, Nattika, Thrissur-680 566",
+        "university": "Calicut University",
+        "district": "Thrissur",
+        "category": "Arts/Science/Commerce College",
+        "type": "Aided"
+    }
+]

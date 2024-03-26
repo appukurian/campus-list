@@ -9,7 +9,7 @@ base_url = "https://www.thrissurkerala.com/keralacollegedetails.aspx?slno="
 colleges = []
 
 # Iterate through the range of slno values
-for slno in range(1, 2307):
+for slno in range(1, 2306):
     # Construct the URL for the current college
     url = f"{base_url}{slno}"
 
@@ -21,12 +21,14 @@ for slno in range(1, 2307):
     college_name = soup.find('h1').text.strip() if soup.find('h1') else 'N/A'
     details = soup.find_all('p')  # Assuming details are in <p> tags, modify as needed
 
-    # Example extraction, modify selectors based on actual HTML structure
-    address = details[0].text.strip() if len(details) > 0 else 'N/A'
-    university = details[1].text.strip() if len(details) > 1 else 'N/A'
-    district = details[2].text.strip() if len(details) > 2 else 'N/A'
-    category = details[3].text.strip() if len(details) > 3 else 'N/A'
-    college_type = details[4].text.strip() if len(details) > 4 else 'N/A'
+
+    # Extract the required data from the page
+    college_name = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label2').text.strip()
+    address = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label3').text.strip()
+    university = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label8').text.strip()
+    district = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label9').text.strip()
+    category = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label10').text.strip()
+    college_type = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label11').text.strip()
 
     # Store the data in a dictionary
     college_data = {
@@ -38,6 +40,7 @@ for slno in range(1, 2307):
         'category': category,
         'type': college_type
     }
+
 
     # Append the college data to the list
     colleges.append(college_data)
