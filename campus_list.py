@@ -9,49 +9,33 @@ base_url = "https://www.thrissurkerala.com/keralacollegedetails.aspx?slno="
 colleges = []
 
 # Iterate through the range of slno values
-for slno in range(1, 2306):
-    # Construct the URL for the current college
+for slno in range(1, 2307):
     url = f"{base_url}{slno}"
-
-    # Fetch the webpage
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Extract the required data from the page
-    college_name = soup.find('h1').text.strip() if soup.find('h1') else 'N/A'
-    details = soup.find_all('p')  # Assuming details are in <p> tags, modify as needed
+    college_name_element = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label2')
+    address_element = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label3')
+    university_element = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label8')
+    district_element = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label9')
+    category_element = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label10')
+    college_type_element = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label11')
 
-
-    # Extract the required data from the page
-    college_name = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label2').text.strip()
-    address = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label3').text.strip()
-    university = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label8').text.strip()
-    district = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label9').text.strip()
-    category = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label10').text.strip()
-    college_type = soup.find('span', id='ctl00_ContentPlaceHolder1_DetailsView1_Label11').text.strip()
-
-    # Store the data in a dictionary
     college_data = {
         'slno': slno,
-        'name': college_name,
-        'address': address,
-        'university': university,
-        'district': district,
-        'category': category,
-        'type': college_type
+        'name': college_name_element.text.strip() if college_name_element else 'N/A',
+        'address': address_element.text.strip() if address_element else 'N/A',
+        'university': university_element.text.strip() if university_element else 'N/A',
+        'district': district_element.text.strip() if district_element else 'N/A',
+        'category': category_element.text.strip() if category_element else 'N/A',
+        'type': college_type_element.text.strip() if college_type_element else 'N/A'
     }
 
-
-    # Append the college data to the list
     colleges.append(college_data)
-
-    # Print progress
     print(f"Processed {slno}/{2306}")
 
-# Convert the list to JSON
 json_data = json.dumps(colleges, indent=4)
-
-# Save the JSON data to a file
 with open('colleges.json', 'w') as f:
     f.write(json_data)
 
