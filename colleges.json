@@ -11,7 +11,7 @@
     {
         "slno": 2,
         "name": "Panampilly Memorial Government College, Chalakkudy",
-        "address": "Panampilly Memorial\u00a0Government College, Chalakkudy, Potta\u00a0 PO, Thrissur-680 307",
+        "address": "Panampilly Memorial Government College, Chalakkudy, Potta  PO, Thrissur-680 307",
         "university": "Calicut University",
         "district": "Thrissur",
         "category": "Arts/Science/Commerce College",
@@ -37,7 +37,7 @@
     },
     {
         "slno": 5,
-        "name": "St Mary\u2019s College, Thrissur",
+        "name": "St Mary  s College, Thrissur",
         "address": "St. Mary's College, Thrissur-680 020",
         "university": "Calicut University",
         "district": "Thrissur",
@@ -262,7 +262,7 @@
     },
     {
         "slno": 30,
-        "name": "haqwa Afzal-Ul-Ulama Arabic College (Womens\u2019 Arabic College), Andathode",
+        "name": "haqwa Afzal-Ul-Ulama Arabic College (Womens   Arabic College), Andathode",
         "address": "Thaqwa Aflal-ul-ulama Arabic College, Andathode, Thrissur",
         "university": "Calicut University",
         "district": "Thrissur",
@@ -280,7 +280,7 @@
     },
     {
         "slno": 32,
-        "name": "MET\u2019s School of Engineering, Mala",
+        "name": "MET  s School of Engineering, Mala",
         "address": "MET 's School of Engineering, Mala, Thrissur 680735",
         "university": "APJ Abdul Kalam Technological University",
         "district": "Thrissur",
@@ -335,7 +335,7 @@
     {
         "slno": 38,
         "name": "Institute of Management and Technology, Thrissur",
-        "address": "West Fort Higher Education Trust, PB No. 16, M.G Kavu\r\nPottore,\r\nThrissur 680 581",
+        "address": "West Fort Higher Education Trust, PB No. 16, M.G Kavu Pottore, Thrissur 680 581",
         "university": "Calicut University",
         "district": "Thrissur",
         "category": "Engineering/Technical College",
@@ -434,7 +434,7 @@
     {
         "slno": 49,
         "name": "St. James College of Nursing, Chalakudy",
-        "address": "St. James College of Nursing, Govt.\r\nHospital Road, River Bank, Chalakudy, Thrissur 680 307",
+        "address": "St. James College of Nursing, Govt. Hospital Road, River Bank, Chalakudy, Thrissur 680 307",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Nursing College",
@@ -443,7 +443,7 @@
     {
         "slno": 50,
         "name": "Jubilee Mission College of Nursing, Thrissur",
-        "address": "Jubilee Mission College of Nursing,\r\nJubilee Gardens, Jubilee Mission PO, Thrissur, 680 005",
+        "address": "Jubilee Mission College of Nursing, Jubilee Gardens, Jubilee Mission PO, Thrissur, 680 005",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Nursing College",
@@ -479,7 +479,7 @@
     {
         "slno": 54,
         "name": "St. James College of Pharmaceutical Sciences, Chalakudy",
-        "address": "St. James College of Pharmaceutical Sciences, Govt. Hospital Road, River\r\nBank, Chalakudy, Thrissur 680 307",
+        "address": "St. James College of Pharmaceutical Sciences, Govt. Hospital Road, River Bank, Chalakudy, Thrissur 680 307",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Pharmacy College",
@@ -568,7 +568,7 @@
     },
     {
         "slno": 64,
-        "name": "St. Joseph\u2019s Training College, Pavaratty",
+        "name": "St. Joseph  s Training College, Pavaratty",
         "address": "St. Joseph's Training College, Pavaratty, Thrissur",
         "university": "Calicut University",
         "district": "Thrissur",
@@ -1073,7 +1073,7 @@
     {
         "slno": 120,
         "name": "Jalaliya Women's Arabic College, Kuttikkattor",
-        "address": "Jalaliya Women\u2019s Arabic college P.O. Kuttikkattoor, Kozhikode",
+        "address": "Jalaliya Women  s Arabic college P.O. Kuttikkattoor, Kozhikode",
         "university": "Calicut University",
         "district": "Kozhikode",
         "category": "Arabic/Oriental Title College",
@@ -1090,7 +1090,7 @@
     },
     {
         "slno": 122,
-        "name": "Baithul Izza Women\u2019s Arabic College, Narikkuni",
+        "name": "Baithul Izza Women  s Arabic College, Narikkuni",
         "address": "Baithul Izza Women's Arabic College, Narikkuni PO, Kozhikode",
         "university": "Calicut University",
         "district": "Kozhikode",
@@ -1190,7 +1190,7 @@
     {
         "slno": 133,
         "name": "KMCT Dental College, Mukkom",
-        "address": "KMCT Dental College, Manassery PO, Mukkom, Kozhikode, 673\r\n602",
+        "address": "KMCT Dental College, Manassery PO, Mukkom, Kozhikode, 673 602",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Dental College",
@@ -1226,7 +1226,7 @@
     {
         "slno": 137,
         "name": "National Hospital College of Nursing, Elathur",
-        "address": "National Hospital College of\r\nNursing, IG Road, Pooladikunnu,\r\nElathur, Kozhikode 673303",
+        "address": "National Hospital College of Nursing, IG Road, Pooladikunnu, Elathur, Kozhikode 673303",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Nursing College",
@@ -1262,7 +1262,7 @@
     {
         "slno": 141,
         "name": "JDT Islam College of Pharmacy, Marikkunnu",
-        "address": "JDT Islam College of Pharmacy, Marikkunnu, Jamiath Hill, Kozhikode 673\r\n012",
+        "address": "JDT Islam College of Pharmacy, Marikkunnu, Jamiath Hill, Kozhikode 673 012",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Pharmacy College",
@@ -1324,7 +1324,7 @@
     },
     {
         "slno": 148,
-        "name": "Bhavan\u2019s Ramakrishna Institute of Teacher Education, Ramanattukara",
+        "name": "Bhavan  s Ramakrishna Institute of Teacher Education, Ramanattukara",
         "address": "Bhavan's Ramakrishnan Institute of Teacher Education, Ramanattukara, Kozhidode 673 633",
         "university": "Calicut University",
         "district": "Kozhikode",
@@ -2450,7 +2450,7 @@
     {
         "slno": 273,
         "name": "Royal Dental College, Chalissery",
-        "address": "Royal Dental College,Mannaraparamba, Chalissery PO, Palakkad 679\r\n536",
+        "address": "Royal Dental College,Mannaraparamba, Chalissery PO, Palakkad 679 536",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Dental College",
@@ -2674,8 +2674,8 @@
     },
     {
         "slno": 298,
-        "name": "St. Joseph\u2019s College, Moolamattom",
-        "address": "St. Joseph\u2019s College, Moolamattom, Arakulam PO, Idukki 685 591",
+        "name": "St. Joseph  s College, Moolamattom",
+        "address": "St. Joseph  s College, Moolamattom, Arakulam PO, Idukki 685 591",
         "university": "Mahatma Gandhi University",
         "district": "Idukki",
         "category": "Arts/Science/Commerce College",
@@ -2818,8 +2818,8 @@
     },
     {
         "slno": 314,
-        "name": "St.Joseph\u2019s College of Physical Education, Moolamattom",
-        "address": "St.Joseph\u2019s College of Physical Education, Moolamattom, Arakulam PO, Idukki-685 591",
+        "name": "St.Joseph  s College of Physical Education, Moolamattom",
+        "address": "St.Joseph  s College of Physical Education, Moolamattom, Arakulam PO, Idukki-685 591",
         "university": "Mahatma Gandhi University",
         "district": "Idukki",
         "category": "Training College",
@@ -2864,7 +2864,7 @@
     {
         "slno": 319,
         "name": "Holy Family College of Nursing, Thodupuzha",
-        "address": "Holy Family College of Nursing,\r\nThodupuzha East PO, Idukki 685 585",
+        "address": "Holy Family College of Nursing, Thodupuzha East PO, Idukki 685 585",
         "university": "Kerala University of Health Sciences",
         "district": "Idukki",
         "category": "Nursing College",
@@ -2980,8 +2980,8 @@
     },
     {
         "slno": 332,
-        "name": "St. Mary\u2019s College for Women, Paliakara",
-        "address": "St. Mary\u2019s College for Women, Paliakara, Thiruvalla-689 101, Pathanamthitta",
+        "name": "St. Mary  s College for Women, Paliakara",
+        "address": "St. Mary  s College for Women, Paliakara, Thiruvalla-689 101, Pathanamthitta",
         "university": "Mahatma Gandhi University",
         "district": "Pathanamthitta",
         "category": "Arts/Science/Commerce College",
@@ -3097,8 +3097,8 @@
     },
     {
         "slno": 345,
-        "name": "St. Mary\u2019s Womens College for Teacher Education, Paliakara",
-        "address": "St. Mary\u2019s Womens College for Teacher Education, Paliakara, Thiruvalla, Pathanathitta 689 101",
+        "name": "St. Mary  s Womens College for Teacher Education, Paliakara",
+        "address": "St. Mary  s Womens College for Teacher Education, Paliakara, Thiruvalla, Pathanathitta 689 101",
         "university": "Mahatma Gandhi University",
         "district": "Pathanamthitta",
         "category": "Training College",
@@ -3161,7 +3161,7 @@
     {
         "slno": 352,
         "name": "MGM Muthoot College of Nursing, Kozhencherry",
-        "address": "MGM Muthoot College of Nursing, Muthoot Medical Centre,\r\nKozhencherry, Pathanamthitta 689 641",
+        "address": "MGM Muthoot College of Nursing, Muthoot Medical Centre, Kozhencherry, Pathanamthitta 689 641",
         "university": "Kerala University of Health Sciences",
         "district": "Pathanamthitta",
         "category": "Nursing College",
@@ -3197,7 +3197,7 @@
     {
         "slno": 356,
         "name": "Mar Gregorios Memorial Muthoot College of Nursing, Pathanamthitta",
-        "address": "Mar Gregorios Memorial Muthoot College of Nursing, Ring Road,\r\nPathanamthitta 689 645",
+        "address": "Mar Gregorios Memorial Muthoot College of Nursing, Ring Road, Pathanamthitta 689 645",
         "university": "Kerala University of Health Sciences",
         "district": "Pathanamthitta",
         "category": "Nursing College",
@@ -3304,8 +3304,8 @@
     },
     {
         "slno": 368,
-        "name": "Maharaja\u2019s College, Ernakulam",
-        "address": "Maharaja\u2019s College, Ernakulam-682 011",
+        "name": "Maharaja  s College, Ernakulam",
+        "address": "Maharaja  s College, Ernakulam-682 011",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Arts/Science/Commerce College",
@@ -3403,8 +3403,8 @@
     },
     {
         "slno": 379,
-        "name": "St. Paul\u2019s College, Kalamasserry",
-        "address": "St. Paul\u2019s College, Kalamasserry, Ernakulam 683 503",
+        "name": "St. Paul  s College, Kalamasserry",
+        "address": "St. Paul  s College, Kalamasserry, Ernakulam 683 503",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Arts/Science/Commerce College",
@@ -3412,8 +3412,8 @@
     },
     {
         "slno": 380,
-        "name": "St. Peter\u2019s College, Kolencherry",
-        "address": "St. Peter\u2019s College, Kolencherry, Ernakulam 682 311",
+        "name": "St. Peter  s College, Kolencherry",
+        "address": "St. Peter  s College, Kolencherry, Ernakulam 682 311",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Arts/Science/Commerce College",
@@ -3421,8 +3421,8 @@
     },
     {
         "slno": 381,
-        "name": "St. Teresa\u2019s College, Ernakulam",
-        "address": "St. Teresa\u2019s College, Ernakulam 682 011",
+        "name": "St. Teresa  s College, Ernakulam",
+        "address": "St. Teresa  s College, Ernakulam 682 011",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Arts/Science/Commerce College",
@@ -3430,8 +3430,8 @@
     },
     {
         "slno": 382,
-        "name": "St. Xavier\u2019s College for Women, Aluva",
-        "address": "St. Xavier\u2019s College for Women, Aluva, Ernakulam 683 101",
+        "name": "St. Xavier  s College for Women, Aluva",
+        "address": "St. Xavier  s College for Women, Aluva, Ernakulam 683 101",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Arts/Science/Commerce College",
@@ -3665,7 +3665,7 @@
     {
         "slno": 408,
         "name": "Siena College of Professional Studies, Konnam Road",
-        "address": "Siena College of Professional Studies, Konnam Road, Perumpadappu, Palluruthi, Cochin \u2013 682 006",
+        "address": "Siena College of Professional Studies, Konnam Road, Perumpadappu, Palluruthi, Cochin   682 006",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Arts/Science/Commerce College",
@@ -3718,8 +3718,8 @@
     },
     {
         "slno": 414,
-        "name": "St.Mary\u2019s College of Commerce & Management Studies, Thuruthiply",
-        "address": "St.Mary\u2019s College of Commerce & Management Studies, Thuruthiply, Valayanchirangara, Perumbavoor, Ernakulam 683556",
+        "name": "St.Mary  s College of Commerce & Management Studies, Thuruthiply",
+        "address": "St.Mary  s College of Commerce & Management Studies, Thuruthiply, Valayanchirangara, Perumbavoor, Ernakulam 683556",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Arts/Science/Commerce College",
@@ -3745,8 +3745,8 @@
     },
     {
         "slno": 417,
-        "name": "St. Joseph\u2019s College of Teacher Education For Women, Ernakulam",
-        "address": "St. Joseph\u2019s College of Teacher Education For Women, Kovilvattom Road, Ernakulam -682 035",
+        "name": "St. Joseph  s College of Teacher Education For Women, Ernakulam",
+        "address": "St. Joseph  s College of Teacher Education For Women, Kovilvattom Road, Ernakulam -682 035",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Training College",
@@ -3755,7 +3755,7 @@
     {
         "slno": 418,
         "name": "Adi Sankara Training College, Mattoor",
-        "address": "Adi Sankara Training College, Sankar Nagar, Mattoor, Kalady, Ernakulam \u2013683 574",
+        "address": "Adi Sankara Training College, Sankar Nagar, Mattoor, Kalady, Ernakulam  683 574",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Training College",
@@ -3916,8 +3916,8 @@
     },
     {
         "slno": 436,
-        "name": "St.Xavier\u2019s Training College for Women, Aluva",
-        "address": "St.Xavier\u2019s Training College for Women, Aluva, Ernakulam 683 101",
+        "name": "St.Xavier  s Training College for Women, Aluva",
+        "address": "St.Xavier  s Training College for Women, Aluva, Ernakulam 683 101",
         "university": "Mahatma Gandhi University",
         "district": "Ernakulam",
         "category": "Training College",
@@ -4214,7 +4214,7 @@
     {
         "slno": 469,
         "name": "Little Flower College of Nursing, Angamaly",
-        "address": "Little Flower College of Nursing,\r\nLittle Flower Hospital & Research\r\nCentre, Angamaly, Ernakulam \r\n683 572",
+        "address": "Little Flower College of Nursing, Little Flower Hospital & Research Centre, Angamaly, Ernakulam  683 572",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -4285,8 +4285,8 @@
     },
     {
         "slno": 477,
-        "name": "St. Joseph\u2019s College of Nursing, Dharmagiri",
-        "address": "St. Joseph\u2019s College of Nursing, St. Joseph\u2019s Hospital, Dharmagiri, Kothamangalam, Ernakulam-686691",
+        "name": "St. Joseph  s College of Nursing, Dharmagiri",
+        "address": "St. Joseph  s College of Nursing, St. Joseph  s Hospital, Dharmagiri, Kothamangalam, Ernakulam-686691",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -4322,7 +4322,7 @@
     {
         "slno": 481,
         "name": "Little Flower Institute of Medical Science & Research (LIMSAR), Angamaly",
-        "address": "Little Flower Institute of Medical Science & Research (LIMSAR), Angamaly, Ernakulam 683\r\n572",
+        "address": "Little Flower Institute of Medical Science & Research (LIMSAR), Angamaly, Ernakulam 683 572",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Paramedical & Allied Sciences",
@@ -4483,8 +4483,8 @@
     },
     {
         "slno": 499,
-        "name": "St. Dominic\u2019s College, Parathod",
-        "address": "St. Dominic\u2019s College, Parathod PO, Kanjirappally, Kottayam 686 512",
+        "name": "St. Dominic  s College, Parathod",
+        "address": "St. Dominic  s College, Parathod PO, Kanjirappally, Kottayam 686 512",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Arts/Science/Commerce College",
@@ -4492,8 +4492,8 @@
     },
     {
         "slno": 500,
-        "name": "St. George\u2019s College, Aruvithura",
-        "address": "St. George\u2019s College, Aruvithura, Kottayam 686 122",
+        "name": "St. George  s College, Aruvithura",
+        "address": "St. George  s College, Aruvithura, Kottayam 686 122",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Arts/Science/Commerce College",
@@ -4501,8 +4501,8 @@
     },
     {
         "slno": 501,
-        "name": "St. Mary\u2019s College, Manarcaud",
-        "address": "St. Mary\u2019s College, Manarcaud, Malam PO, Kottayam-686031",
+        "name": "St. Mary  s College, Manarcaud",
+        "address": "St. Mary  s College, Manarcaud, Malam PO, Kottayam-686031",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Arts/Science/Commerce College",
@@ -4510,8 +4510,8 @@
     },
     {
         "slno": 502,
-        "name": "St. Stephen\u2019s College, Uzhavoor",
-        "address": "St. Stephen\u2019s College, Uzhavoor, Kottayam 686 634",
+        "name": "St. Stephen  s College, Uzhavoor",
+        "address": "St. Stephen  s College, Uzhavoor, Kottayam 686 634",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Arts/Science/Commerce College",
@@ -4528,8 +4528,8 @@
     },
     {
         "slno": 504,
-        "name": "St. Xavier\u2019s College, Kothavara",
-        "address": "St. Xavier\u2019s College, Kothavara PO, Vaikom, Kottayam 686 607",
+        "name": "St. Xavier  s College, Kothavara",
+        "address": "St. Xavier  s College, Kothavara PO, Vaikom, Kottayam 686 607",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Arts/Science/Commerce College",
@@ -4717,8 +4717,8 @@
     },
     {
         "slno": 525,
-        "name": "St. Joseph\u2019s Training College, Mannanam",
-        "address": "St. Joseph\u2019s Training College, Mannanam, Kottayam \u2013 686 561",
+        "name": "St. Joseph  s Training College, Mannanam",
+        "address": "St. Joseph  s Training College, Mannanam, Kottayam   686 561",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Training College",
@@ -4762,8 +4762,8 @@
     },
     {
         "slno": 530,
-        "name": "St. Mary\u2019s Training College, Karikode",
-        "address": "St. Mary\u2019s Training College, Karikode PO, Peruva, Kottayam-686 610",
+        "name": "St. Mary  s Training College, Karikode",
+        "address": "St. Mary  s Training College, Karikode PO, Peruva, Kottayam-686 610",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Training College",
@@ -4771,8 +4771,8 @@
     },
     {
         "slno": 531,
-        "name": "St. John The Baptists\u2019s College of Special Education, Nedumkunnam",
-        "address": "St. John The Baptists\u2019s College of Special Education, Nedumkunnam,Kottayam",
+        "name": "St. John The Baptists  s College of Special Education, Nedumkunnam",
+        "address": "St. John The Baptists  s College of Special Education, Nedumkunnam,Kottayam",
         "university": "Mahatma Gandhi University",
         "district": "Kottayam",
         "category": "Training College",
@@ -4825,8 +4825,8 @@
     },
     {
         "slno": 537,
-        "name": "St. Joseph\u2019s College of Engineering and Technology, Choondacherry",
-        "address": "St. Joseph\u2019s College of Engg. and Technology, Choondacherry PO, Plassanal (via), Palai, Kottayam 686 579",
+        "name": "St. Joseph  s College of Engineering and Technology, Choondacherry",
+        "address": "St. Joseph  s College of Engg. and Technology, Choondacherry PO, Plassanal (via), Palai, Kottayam 686 579",
         "university": "APJ Abdul Kalam Technological University",
         "district": "Kottayam",
         "category": "Engineering/Technical College",
@@ -4871,7 +4871,7 @@
     {
         "slno": 542,
         "name": "St.Thomas College Of Nursing, Changanassery",
-        "address": "St.Thomas College of Nursing,\r\nChethipuzha, Kurisummoodu PO,\r\nChanganassery, Kottayam 686 104",
+        "address": "St.Thomas College of Nursing, Chethipuzha, Kurisummoodu PO, Changanassery, Kottayam 686 104",
         "university": "Kerala University of Health Sciences",
         "district": "Kottayam",
         "category": "Nursing College",
@@ -5051,7 +5051,7 @@
     {
         "slno": 562,
         "name": "College of Applied Science, Neruvambaram",
-        "address": "College of Applied Science, Neruvambaram, Payyanur, Pazhayangadi (PO), Kannur \u2013 670 303",
+        "address": "College of Applied Science, Neruvambaram, Payyanur, Pazhayangadi (PO), Kannur   670 303",
         "university": "Kannur University",
         "district": "Kannur",
         "category": "Arts/Science/Commerce College",
@@ -5186,7 +5186,7 @@
     {
         "slno": 577,
         "name": "AMSTECK Arts & Science College, Kalliassery",
-        "address": "AMSTECK Arts & Science College, Kalliassery, Ancham Peedika PO, Kannur \u2013 670 331",
+        "address": "AMSTECK Arts & Science College, Kalliassery, Ancham Peedika PO, Kannur   670 331",
         "university": "Kannur University",
         "district": "Kannur",
         "category": "Arts/Science/Commerce College",
@@ -5195,7 +5195,7 @@
     {
         "slno": 578,
         "name": "Pilathara Co-op Arts & Science College, Pazhichiyil",
-        "address": "Pilathara Co-op Arts & Science College, Pazhichiyil, PO Nareekamvalli, Kannur \u2013 670501",
+        "address": "Pilathara Co-op Arts & Science College, Pazhichiyil, PO Nareekamvalli, Kannur   670501",
         "university": "Kannur University",
         "district": "Kannur",
         "category": "Arts/Science/Commerce College",
@@ -5204,7 +5204,7 @@
     {
         "slno": 579,
         "name": "Morazha Co-operative Arts & Science College, Morazha",
-        "address": "Morazha Co-operative Arts & Science College, Morazha PO, Kannur \u2013 670564",
+        "address": "Morazha Co-operative Arts & Science College, Morazha PO, Kannur   670564",
         "university": "Kannur University",
         "district": "Kannur",
         "category": "Arts/Science/Commerce College",
@@ -5213,7 +5213,7 @@
     {
         "slno": 580,
         "name": "Wadihuda Institute of Research and Advanced Studies, Vilayancode",
-        "address": "Wadihuda Institute of Research and Advanced Studies, Vilayancode, Kannur \u2013 670501",
+        "address": "Wadihuda Institute of Research and Advanced Studies, Vilayancode, Kannur   670501",
         "university": "Kannur University",
         "district": "Kannur",
         "category": "Arts/Science/Commerce College",
@@ -5420,7 +5420,7 @@
     {
         "slno": 603,
         "name": "Academy of Pharmaceutical Sciences, Pariyaram",
-        "address": "Academy of Pharmaceutical\r\nSciences, Pariyaram Medical Colege\r\nPO, Pariyaram, Kannur 670\r\n503",
+        "address": "Academy of Pharmaceutical Sciences, Pariyaram Medical Colege PO, Pariyaram, Kannur 670 503",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Pharmacy College",
@@ -5429,7 +5429,7 @@
     {
         "slno": 604,
         "name": "College of Nursing, Pariyaram",
-        "address": "College of Nursing, Academy of\r\nMedical Sciences, Pariyaram\r\nMedical College PO, Pariyaram, Kannur 670503",
+        "address": "College of Nursing, Academy of Medical Sciences, Pariyaram Medical College PO, Pariyaram, Kannur 670503",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Nursing College",
@@ -5474,7 +5474,7 @@
     {
         "slno": 609,
         "name": "AKG Memorial Co-operative College of Nursing, Mavilayi",
-        "address": "AKG Memorial Co-operative College of Nursing, Nr.\r\nGurukkanmarkkavu, Mavilayi PO,\r\nKannur 670 622",
+        "address": "AKG Memorial Co-operative College of Nursing, Nr. Gurukkanmarkkavu, Mavilayi PO, Kannur 670 622",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Nursing College",
@@ -5492,7 +5492,7 @@
     {
         "slno": 611,
         "name": "Crescent College of Nursing, Payangadi",
-        "address": "Crescent College of Nursing, Ramapuram PO, Payangadi,\r\nKannur 670 303",
+        "address": "Crescent College of Nursing, Ramapuram PO, Payangadi, Kannur 670 303",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Nursing College",
@@ -5582,7 +5582,7 @@
     {
         "slno": 621,
         "name": "MECF College of Teacher Education, Peringathur",
-        "address": "MECF College of Teacher Education, Peringathur, Kannur \u2013 670 675",
+        "address": "MECF College of Teacher Education, Peringathur, Kannur   670 675",
         "university": "Kannur University",
         "district": "Kannur",
         "category": "Training College",
@@ -5761,8 +5761,8 @@
     },
     {
         "slno": 641,
-        "name": "Thanbeehul Islam Women\u2019s College, Naimarmoola",
-        "address": "Thanbeehul Islam Women\u2019s College, Naimarmoola, Kasaragod 671123",
+        "name": "Thanbeehul Islam Women  s College, Naimarmoola",
+        "address": "Thanbeehul Islam Women  s College, Naimarmoola, Kasaragod 671123",
         "university": "Kannur University",
         "district": "Kasaragod",
         "category": "Arabic/Oriental Title College",
@@ -5888,7 +5888,7 @@
     {
         "slno": 655,
         "name": "People Institute of Management Studies, Munnad",
-        "address": "People Institute of Management Studies, EMS Akshara Gramam, Munnad (PO) Chengala(Via)\r\nKasaragod 671541",
+        "address": "People Institute of Management Studies, EMS Akshara Gramam, Munnad (PO) Chengala(Via) Kasaragod 671541",
         "university": "Kannur University",
         "district": "Kasaragod",
         "category": "Engineering/Technical College",
@@ -5951,7 +5951,7 @@
     {
         "slno": 662,
         "name": "Government Arts College, Thycaud",
-        "address": "Government Arts College, Thycaud, Thiruvananthapuram \u2013695 014",
+        "address": "Government Arts College, Thycaud, Thiruvananthapuram  695 014",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6013,8 +6013,8 @@
     },
     {
         "slno": 669,
-        "name": "All Saints\u2019 College, Thiruvananthapuram",
-        "address": "All Saints\u2019 College, Thiruvananthapuram 695 007",
+        "name": "All Saints   College, Thiruvananthapuram",
+        "address": "All Saints   College, Thiruvananthapuram 695 007",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6023,7 +6023,7 @@
     {
         "slno": 670,
         "name": "HH Maharani Sethu Parvathi NSS College for Women, Neearamankara",
-        "address": "HH Maharani Sethu Parvathi\r\nNSS College for Women,\r\nNeearamankara, Thiruvananthapuram 695040",
+        "address": "HH Maharani Sethu Parvathi NSS College for Women, Neearamankara, Thiruvananthapuram 695040",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6032,7 +6032,7 @@
     {
         "slno": 671,
         "name": "Mahatma Gandhi College, Kesavadasapuram",
-        "address": "Mahatma Gandhi College,\r\nKesavadasapuram, Thiruvananthapuram 695004",
+        "address": "Mahatma Gandhi College, Kesavadasapuram, Thiruvananthapuram 695004",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6041,7 +6041,7 @@
     {
         "slno": 672,
         "name": "Mar Ivanios College, Nalanchira",
-        "address": "Mar Ivanios College, Nalanchira,\r\nThiruvananthapuram 695015",
+        "address": "Mar Ivanios College, Nalanchira, Thiruvananthapuram 695015",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6050,7 +6050,7 @@
     {
         "slno": 673,
         "name": "SN College, Sivagiri",
-        "address": "SN College, Sivagiri, Varkala,\r\nThiruvananthapuram",
+        "address": "SN College, Sivagiri, Varkala, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6086,7 +6086,7 @@
     {
         "slno": 677,
         "name": "Christian College, Kattakada",
-        "address": "Christian College, Kattakada ,\r\nThiruvananthapuram 695572",
+        "address": "Christian College, Kattakada , Thiruvananthapuram 695572",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6104,7 +6104,7 @@
     {
         "slno": 679,
         "name": "Mannaniya College of Arts & Science, Pangode",
-        "address": "Mannaniya College of Arts & Science,\r\nPangode, Kallara, Thiruvananthapuram 695609",
+        "address": "Mannaniya College of Arts & Science, Pangode, Kallara, Thiruvananthapuram 695609",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6113,7 +6113,7 @@
     {
         "slno": 680,
         "name": "Loyola College of Social Sciences, Sreekariyam",
-        "address": "Loyola College of Social Sciences,\r\nSreekariyam, Thiruvananthapuram 695017",
+        "address": "Loyola College of Social Sciences, Sreekariyam, Thiruvananthapuram 695017",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6140,7 +6140,7 @@
     {
         "slno": 683,
         "name": "Devaswom Board College, Sasthamcottah",
-        "address": "Devaswom Board College,\r\nSasthamcottah, Kollam 690521",
+        "address": "Devaswom Board College, Sasthamcottah, Kollam 690521",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6149,7 +6149,7 @@
     {
         "slno": 684,
         "name": "TKM College of Arts & Science, Kollam",
-        "address": "TKM College of Arts & Science,\r\nKollam 691005",
+        "address": "TKM College of Arts & Science, Kollam 691005",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6185,7 +6185,7 @@
     {
         "slno": 688,
         "name": "SN College for Women, Kollam",
-        "address": "SN College for Women, Kollam\r\n691001",
+        "address": "SN College for Women, Kollam 691001",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6194,7 +6194,7 @@
     {
         "slno": 689,
         "name": "Sree Narayana College, Kollam",
-        "address": "Sree Narayana College, Kollam\r\n691001",
+        "address": "Sree Narayana College, Kollam 691001",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6221,7 +6221,7 @@
     {
         "slno": 692,
         "name": "Mannam Memorial NSS College, Kottiyam",
-        "address": "Mannam Memorial NSS College,\r\nKottiyam, Kollam 691571",
+        "address": "Mannam Memorial NSS College, Kottiyam, Kollam 691571",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6266,7 +6266,7 @@
     {
         "slno": 697,
         "name": "Milad-E- Sherief Memorial (MSM) College, Kayamkulam",
-        "address": "Milad-E- Sherief Memorial (MSM)\r\nCollege, Kayamkulam, Alappuzha",
+        "address": "Milad-E- Sherief Memorial (MSM) College, Kayamkulam, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6275,7 +6275,7 @@
     {
         "slno": 698,
         "name": "NSS College, KR Puram",
-        "address": "NSS College, KR Puram PO, \r\nCherthala, Alappuzha 688556",
+        "address": "NSS College, KR Puram PO,  Cherthala, Alappuzha 688556",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6302,7 +6302,7 @@
     {
         "slno": 701,
         "name": "St. Joseph`s College for Women, Alappuzha",
-        "address": "St. Joseph`s College for Women,\r\nAlappuzha 688001",
+        "address": "St. Joseph`s College for Women, Alappuzha 688001",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6311,7 +6311,7 @@
     {
         "slno": 702,
         "name": "St. Michael`s College, Cherthala",
-        "address": "St. Michael`s College, Cherthala\r\n688539, Alappuzha",
+        "address": "St. Michael`s College, Cherthala 688539, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6320,7 +6320,7 @@
     {
         "slno": 703,
         "name": "TKMM College, Nangiarkulangara",
-        "address": "TKMM College, Nangiarkulangara,\r\nHaripad, Alappuzha 690513",
+        "address": "TKMM College, Nangiarkulangara, Haripad, Alappuzha 690513",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6329,7 +6329,7 @@
     {
         "slno": 704,
         "name": "SN College, Cheriyanad",
-        "address": "SN College, Cheriyanad,\r\nNeduvaramcode PO, Chengannur, Alappuzha\r\n689508",
+        "address": "SN College, Cheriyanad, Neduvaramcode PO, Chengannur, Alappuzha 689508",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6338,7 +6338,7 @@
     {
         "slno": 705,
         "name": "Sree Ayyappa College, Thiruvanvandoor",
-        "address": "Sree Ayyappa College,\r\nThiruvanvandoor, Eramallikara, Alappuzha 689109",
+        "address": "Sree Ayyappa College, Thiruvanvandoor, Eramallikara, Alappuzha 689109",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6356,7 +6356,7 @@
     {
         "slno": 707,
         "name": "St. Cyril`s College, Adoor",
-        "address": "St. Cyril`s College,\r\nAdoor, Pathanamthitta 691529",
+        "address": "St. Cyril`s College, Adoor, Pathanamthitta 691529",
         "university": "Kerala University",
         "district": "Pathanamthitta",
         "category": "Arts/Science/Commerce College",
@@ -6374,7 +6374,7 @@
     {
         "slno": 709,
         "name": "Raja Ravi Varma College of Fine Arts, Mavelikara",
-        "address": "Raja Ravi Varma College of Fine Arts,\r\nMavelikara, Alappuzha",
+        "address": "Raja Ravi Varma College of Fine Arts, Mavelikara, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6383,7 +6383,7 @@
     {
         "slno": 710,
         "name": "Sri Swathi Thirunal College of Music, Thiruvananthapuram",
-        "address": "Sri Swathi Thirunal College of Music,\r\nThiruvananthapuram",
+        "address": "Sri Swathi Thirunal College of Music, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6392,7 +6392,7 @@
     {
         "slno": 711,
         "name": "Lakshmi Bai National College of Physical Education, Kariavattom",
-        "address": "Lakshmi Bai National College of\r\nPhysical Education, Kariavattom, Thiruvananthapuram",
+        "address": "Lakshmi Bai National College of Physical Education, Kariavattom, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Physical Education",
@@ -6410,7 +6410,7 @@
     {
         "slno": 713,
         "name": "The Kerala Law Academy Law College, Peroorkada",
-        "address": "The Kerala Law Academy Law\r\nCollege, Peroorkada, Thiruvananthapuram",
+        "address": "The Kerala Law Academy Law College, Peroorkada, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Law College",
@@ -6428,7 +6428,7 @@
     {
         "slno": 715,
         "name": "SN Training College, Nedumganda",
-        "address": "SN Training College, Nedumganda,\r\nVarkala, Thiruvananthapuram",
+        "address": "SN Training College, Nedumganda, Varkala, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6437,7 +6437,7 @@
     {
         "slno": 716,
         "name": "Mar Theophilus Training College, Nalanchira",
-        "address": "Mar Theophilus Training College,\r\nBethany Hills, Nalanchira PO, Thiruvananthapuram",
+        "address": "Mar Theophilus Training College, Bethany Hills, Nalanchira PO, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6446,7 +6446,7 @@
     {
         "slno": 717,
         "name": "Karmela Rani Training College, Kollam",
-        "address": "Karmela Rani Training College, Fatima\r\nRoad, Near St. Aloysius HSS, Kollam\r\n691013",
+        "address": "Karmela Rani Training College, Fatima Road, Near St. Aloysius HSS, Kollam 691013",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6455,7 +6455,7 @@
     {
         "slno": 718,
         "name": "Mount Tabor Training College, Pathanapuram",
-        "address": "Mount Tabor Training College,\r\nPathanapuram, Kollam 689695",
+        "address": "Mount Tabor Training College, Pathanapuram, Kollam 689695",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6473,7 +6473,7 @@
     {
         "slno": 720,
         "name": "Peet Memorial Training College, Mavelikara",
-        "address": "Peet Memorial Training College,\r\nMavelikara, Alappuzha",
+        "address": "Peet Memorial Training College, Mavelikara, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Training College",
@@ -6491,7 +6491,7 @@
     {
         "slno": 722,
         "name": "Thirumala Devaswom Medical College, Alappuzha",
-        "address": "Thirumala Devaswom Medical College,\r\nAlappuzha 688005",
+        "address": "Thirumala Devaswom Medical College, Alappuzha 688005",
         "university": "Kerala University of Health Sciences",
         "district": "Alappuzha",
         "category": "Medical College",
@@ -6572,7 +6572,7 @@
     {
         "slno": 731,
         "name": "University College of Engineering, Kariavattom",
-        "address": "University College of Engineering,\r\nKariavattom, Thiruvananthapuram",
+        "address": "University College of Engineering, Kariavattom, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Engineering/Technical College",
@@ -6581,7 +6581,7 @@
     {
         "slno": 732,
         "name": "Sree Sankara Vidyapeedom College, Nagaroor",
-        "address": "Sree Sankara Vidyapeedom College,\r\nNagaroor, Kilimanoor, Thiruvananthapuram, 695618",
+        "address": "Sree Sankara Vidyapeedom College, Nagaroor, Kilimanoor, Thiruvananthapuram, 695618",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6590,7 +6590,7 @@
     {
         "slno": 733,
         "name": "AJ College of Science & Technology, Thonnakkal",
-        "address": "AJ College of Science & Technology,\r\nThonnakkal, Thiruvananthapuram 695 317",
+        "address": "AJ College of Science & Technology, Thonnakkal, Thiruvananthapuram 695 317",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6599,7 +6599,7 @@
     {
         "slno": 734,
         "name": "Emmanuel College, Vazhichal",
-        "address": "Emmanuel College, Vazhichal,\r\nThiruvananthapuram",
+        "address": "Emmanuel College, Vazhichal, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6617,7 +6617,7 @@
     {
         "slno": 736,
         "name": "CHMM College for Advanced Studies, Chavarcode",
-        "address": "CHMM College for Advanced\r\nStudies, METCA Land, Chavarcode,\r\nPalayamkunnu PO, Varkala, Thiruvananthapuram 695146",
+        "address": "CHMM College for Advanced Studies, METCA Land, Chavarcode, Palayamkunnu PO, Varkala, Thiruvananthapuram 695146",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6635,7 +6635,7 @@
     {
         "slno": 738,
         "name": "Mar Thoma College of Science & Technology, Ayur",
-        "address": "Mar Thoma College of Science &\r\nTechnology, Chadayamangalam PO,\r\nAyur , Kollam 691534",
+        "address": "Mar Thoma College of Science & Technology, Chadayamangalam PO, Ayur , Kollam 691534",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6644,7 +6644,7 @@
     {
         "slno": 739,
         "name": "Shree Vidhyadhiraja Arts & Science College, Karunagapally",
-        "address": "Shree Vidhyadhiraja Arts & Science\r\nCollege, Karunagapally, Thevarkavu,\r\nKollam 690518",
+        "address": "Shree Vidhyadhiraja Arts & Science College, Karunagapally, Thevarkavu, Kollam 690518",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6671,7 +6671,7 @@
     {
         "slno": 742,
         "name": "National Institute of Speech & Hearing (NISH), Akkulam",
-        "address": "National Institute of Speech &\r\nHearing (NISH), Karimanal PO, Akkulam,\r\nThiruvananthapuram 695583",
+        "address": "National Institute of Speech & Hearing (NISH), Karimanal PO, Akkulam, Thiruvananthapuram 695583",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6680,7 +6680,7 @@
     {
         "slno": 743,
         "name": "Sree Narayana College of Technology, Vadakkevila",
-        "address": "Sree Narayana College of Technology,\r\nVadakkevila PO, Kollam 10",
+        "address": "Sree Narayana College of Technology, Vadakkevila PO, Kollam 10",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6689,7 +6689,7 @@
     {
         "slno": 744,
         "name": "PMSA Pookoya Thangal Memorial Arts & Science College, Kottappuram",
-        "address": "PMSA Pookoya Thangal Memorial\r\nArts & Science College, Kottappuram,\r\nKuttikkadu PO, Kadakkal, Kollam 691536",
+        "address": "PMSA Pookoya Thangal Memorial Arts & Science College, Kottappuram, Kuttikkadu PO, Kadakkal, Kollam 691536",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6698,7 +6698,7 @@
     {
         "slno": 745,
         "name": "Naipunnya School of Management, Cherthala",
-        "address": "Naipunnya School of Management,\r\nNear Manorama Junction, Cherthala, Alappuzha",
+        "address": "Naipunnya School of Management, Near Manorama Junction, Cherthala, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6707,7 +6707,7 @@
     {
         "slno": 746,
         "name": "Sree Narayana Guru Memorial Arts & Science College, Thuravoor",
-        "address": "Sree Narayana Guru Memorial Arts &\r\nScience College, Valamangalam South\r\nPO, Thuravoor, Alappuzha \u2013 688532",
+        "address": "Sree Narayana Guru Memorial Arts & Science College, Valamangalam South PO, Thuravoor, Alappuzha   688532",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Arts/Science/Commerce College",
@@ -6716,7 +6716,7 @@
     {
         "slno": 747,
         "name": "College of Applied Sciences, Dhanuvachapuram, Thiruvananthapuram",
-        "address": "College of applied Sciences,\r\nDhanuvachapuram, Thiruvananthapuram",
+        "address": "College of applied Sciences, Dhanuvachapuram, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Arts/Science/Commerce College",
@@ -6725,7 +6725,7 @@
     {
         "slno": 748,
         "name": "College of applied Sciences, Kundara",
-        "address": "College of applied Sciences, Kundara,\r\nKollam",
+        "address": "College of applied Sciences, Kundara, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6734,7 +6734,7 @@
     {
         "slno": 749,
         "name": "Member Sree Narayana Pillai Institute of Management & Technology, Madappally",
-        "address": "Member Sree Narayana Pillai Institute\r\nof Management & Technology,\r\nMadappally, Mukundapuram, Chavara,\r\nKollam",
+        "address": "Member Sree Narayana Pillai Institute of Management & Technology, Madappally, Mukundapuram, Chavara, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Arts/Science/Commerce College",
@@ -6743,7 +6743,7 @@
     {
         "slno": 750,
         "name": "National Training College for Women, Kollamkavu",
-        "address": "National Training College for Women,\r\nKollamkavu, Pazhakutty, Nedumangad,\r\nThiruvananthapuram \u2013 695561",
+        "address": "National Training College for Women, Kollamkavu, Pazhakutty, Nedumangad, Thiruvananthapuram   695561",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6752,7 +6752,7 @@
     {
         "slno": 751,
         "name": "Fathima Memorial Training College, Vadakkevila",
-        "address": "Fathima Memorial Training College,\r\nVadakkevila, Kollam",
+        "address": "Fathima Memorial Training College, Vadakkevila, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6770,7 +6770,7 @@
     {
         "slno": 753,
         "name": "Baselios Marthoma Mathews II Training College, Kottarakara",
-        "address": "Baselios Marthoma Mathews II\r\nTraining College, Kottarakara, Kollam",
+        "address": "Baselios Marthoma Mathews II Training College, Kottarakara, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6779,7 +6779,7 @@
     {
         "slno": 754,
         "name": "Mannam Memorial Training College, Vilakudy",
-        "address": "Mannam Memorial Training College,\r\nVilakudy, Kollam",
+        "address": "Mannam Memorial Training College, Vilakudy, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6788,7 +6788,7 @@
     {
         "slno": 755,
         "name": "Sobha College of Teacher Education, S.L. Puram",
-        "address": "Sobha College of Teacher Education,\r\nS.L. Puram PO, Mararikulam, Cherthala,\r\nAlappuzha",
+        "address": "Sobha College of Teacher Education, S.L. Puram PO, Mararikulam, Cherthala, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Training College",
@@ -6797,7 +6797,7 @@
     {
         "slno": 756,
         "name": "KNMKNMS Training College, Vellarada",
-        "address": "KNMKNMS Training College,\r\nVellarada, Thiruvananthapuram",
+        "address": "KNMKNMS Training College, Vellarada, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6806,7 +6806,7 @@
     {
         "slno": 757,
         "name": "BNV College of Teacher Education, Thiruvallam",
-        "address": "BNV College of Teacher Education,\r\nThiruvallam, Thiruvananthapuram",
+        "address": "BNV College of Teacher Education, Thiruvallam, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6815,7 +6815,7 @@
     {
         "slno": 758,
         "name": "KTCT College of Teacher Education, Kaduvayil",
-        "address": "KTCT College of Teacher Education,\r\nKaduvayil, Thottacadu, Thiruvananthapuram",
+        "address": "KTCT College of Teacher Education, Kaduvayil, Thottacadu, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6833,7 +6833,7 @@
     {
         "slno": 760,
         "name": "HH Marthoma Mathews II Training College, Adoor",
-        "address": "HH Marthoma Mathews II Training\r\nCollege, Adoor, Pathanamthitta - 691523",
+        "address": "HH Marthoma Mathews II Training College, Adoor, Pathanamthitta - 691523",
         "university": "Kerala University",
         "district": "Pathanamthitta",
         "category": "Training College",
@@ -6842,7 +6842,7 @@
     {
         "slno": 761,
         "name": "Jameela Beevi Memorial Centre for Teacher Education, Kayamkulam",
-        "address": "Jameela Beevi Memorial Centre for\r\nTeacher Education, Kayamkulam, Alappuzha\r\n690502",
+        "address": "Jameela Beevi Memorial Centre for Teacher Education, Kayamkulam, Alappuzha 690502",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Training College",
@@ -6851,7 +6851,7 @@
     {
         "slno": 762,
         "name": "St. Thomas Training College, Mukkolakkal",
-        "address": "St. Thomas Training College,\r\nMukkolakkal, Thiruvananthapuram 695044",
+        "address": "St. Thomas Training College, Mukkolakkal, Thiruvananthapuram 695044",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6860,7 +6860,7 @@
     {
         "slno": 763,
         "name": "MAET Training College, Nettayam",
-        "address": "MAET Training College, Nettayam,\r\nThiruvananthapuram 15",
+        "address": "MAET Training College, Nettayam, Thiruvananthapuram 15",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6868,8 +6868,8 @@
     },
     {
         "slno": 764,
-        "name": "St. Jacob\u2019s Training College, Menamkulam",
-        "address": "St. Jacob\u2019s Training College,\r\nMenamkulam, Kazhakuttam, Thiruvananthapuram\r\n695582",
+        "name": "St. Jacob  s Training College, Menamkulam",
+        "address": "St. Jacob  s Training College, Menamkulam, Kazhakuttam, Thiruvananthapuram 695582",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6878,7 +6878,7 @@
     {
         "slno": 765,
         "name": "Emmanuel College of BEd Training, Vazhichal",
-        "address": "Emmanuel College of BEd Training,\r\nVazhichal, Kudappanamoodu PO,\r\nThiruvananthapuram",
+        "address": "Emmanuel College of BEd Training, Vazhichal, Kudappanamoodu PO, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6887,7 +6887,7 @@
     {
         "slno": 766,
         "name": "Christ Nagar College of Education, Chavarapuram",
-        "address": "Christ Nagar College of Education,\r\nChavarapuram, Thiruvallam, Thiruvananthapuram\r\n695027",
+        "address": "Christ Nagar College of Education, Chavarapuram, Thiruvallam, Thiruvananthapuram 695027",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6896,7 +6896,7 @@
     {
         "slno": 767,
         "name": "Rama Vilasom Training College, Valakom",
-        "address": "Rama Vilasom Training College,\r\nValakom PO, Kottarakara, Kollam",
+        "address": "Rama Vilasom Training College, Valakom PO, Kottarakara, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6905,7 +6905,7 @@
     {
         "slno": 768,
         "name": "Buddha College of Teacher Education, Muthukulam North",
-        "address": "Buddha College of Teacher Education,\r\nMuthukulam North, Alappuzha",
+        "address": "Buddha College of Teacher Education, Muthukulam North, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Training College",
@@ -6914,7 +6914,7 @@
     {
         "slno": 769,
         "name": "Mannam Foundation Centre for Education Technology, Poruvazhy",
-        "address": "Mannam Foundation Centre for\r\nEducation Technology, Poruvazhy,\r\nEdakkad PO, Kollam",
+        "address": "Mannam Foundation Centre for Education Technology, Poruvazhy, Edakkad PO, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6923,7 +6923,7 @@
     {
         "slno": 770,
         "name": "Manjappara Educational and Charitable Trust BEd Centre, Manjappara",
-        "address": "Manjappara Educational and\r\nCharitable Trust BEd Centre,\r\nManjappara, Ayur, Kollam",
+        "address": "Manjappara Educational and Charitable Trust BEd Centre, Manjappara, Ayur, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6932,7 +6932,7 @@
     {
         "slno": 771,
         "name": "Sree Narayana Training College, Sreekandeswaram",
-        "address": "Sree Narayana Training College,\r\nSreekandeswaram, Poochakkal PO,\r\nCherthala, Alappuzha \u2013 688526",
+        "address": "Sree Narayana Training College, Sreekandeswaram, Poochakkal PO, Cherthala, Alappuzha   688526",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Training College",
@@ -6941,7 +6941,7 @@
     {
         "slno": 772,
         "name": "Fathima Memorial Training College, Mylapore",
-        "address": "Fathima Memorial Training College,\r\nMylapore, Umayanalloor, Kollam",
+        "address": "Fathima Memorial Training College, Mylapore, Umayanalloor, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6950,7 +6950,7 @@
     {
         "slno": 773,
         "name": "College of Teacher Education, Arkannoor",
-        "address": "College of Teacher Education,\r\nArkannoor, Ayur, Kollam",
+        "address": "College of Teacher Education, Arkannoor, Ayur, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6959,7 +6959,7 @@
     {
         "slno": 774,
         "name": "Victory College of Teacher Education Centre, Olathanni",
-        "address": "Victory College of Teacher Education\r\nCentre, Olathanni, Neyyattinkara, Thiruvananthapuram",
+        "address": "Victory College of Teacher Education Centre, Olathanni, Neyyattinkara, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -6967,8 +6967,8 @@
     },
     {
         "slno": 775,
-        "name": "Millath College of Teacher Education,\r\nSooranad",
-        "address": "Millath College of Teacher Education,\r\nSooranad PO, Kunnathur, Kollam",
+        "name": "Millath College of Teacher Education, Sooranad",
+        "address": "Millath College of Teacher Education, Sooranad PO, Kunnathur, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6977,7 +6977,7 @@
     {
         "slno": 776,
         "name": "SNGM BEd College, Valamangalam",
-        "address": "SNGM BEd College, Valamangalam\r\nSouth PO, Thuravur, Cherthala,\r\nAlappuzha 688532",
+        "address": "SNGM BEd College, Valamangalam South PO, Thuravur, Cherthala, Alappuzha 688532",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Training College",
@@ -6986,7 +6986,7 @@
     {
         "slno": 777,
         "name": "Sri Vidyadhiraja Model College of Teacher Education, Vendar",
-        "address": "Sri Vidyadhiraja Model College of\r\nTeacher Education, Vendar PO,\r\nKottarakkara, Kollam \u2013 691507",
+        "address": "Sri Vidyadhiraja Model College of Teacher Education, Vendar PO, Kottarakkara, Kollam   691507",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -6995,7 +6995,7 @@
     {
         "slno": 778,
         "name": "Iqbal Training College, Daivappura",
-        "address": "Iqbal Training College,\r\nIqbal Nagar, Daivappura, Peringammala,\r\nThiruvananthapuram",
+        "address": "Iqbal Training College, Iqbal Nagar, Daivappura, Peringammala, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -7004,7 +7004,7 @@
     {
         "slno": 779,
         "name": "Sabarigiri College of Education, Anchal",
-        "address": "Sabarigiri College of Education,\r\nAnchal, Kollam 691306",
+        "address": "Sabarigiri College of Education, Anchal, Kollam 691306",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -7013,7 +7013,7 @@
     {
         "slno": 780,
         "name": "Kaviyattu College of Education, Pirappancode",
-        "address": "Kaviyattu College of Education,\r\nPirappancode PO, Thiruvananthapuram 695607",
+        "address": "Kaviyattu College of Education, Pirappancode PO, Thiruvananthapuram 695607",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -7022,7 +7022,7 @@
     {
         "slno": 781,
         "name": "Kunjukrishnan Nadar Memorial BEd College, Mavila",
-        "address": "Kunjukrishnan Nadar Memorial B.Ed.\r\nCollege, Mavila, Kanjiramkulam, Thiruvananthapuram",
+        "address": "Kunjukrishnan Nadar Memorial B.Ed. College, Mavila, Kanjiramkulam, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -7031,7 +7031,7 @@
     {
         "slno": 782,
         "name": "Sree Narayana Guru Kripa BEd College, Nirmala Bhavan",
-        "address": "Sree Narayana Guru Kripa BEd\r\nCollege, Nirmala Bhavan, Pothencode,\r\nThiruvananthapuram",
+        "address": "Sree Narayana Guru Kripa BEd College, Nirmala Bhavan, Pothencode, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -7040,7 +7040,7 @@
     {
         "slno": 783,
         "name": "Haneefa Kunju Memorial College of Education, Umayanalloor",
-        "address": "Haneefa Kunju Memorial College of\r\nEducation, Umayanalloor PO, Kollam",
+        "address": "Haneefa Kunju Memorial College of Education, Umayanalloor PO, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -7049,7 +7049,7 @@
     {
         "slno": 784,
         "name": "Pattom Thanu Pillai Memorial College of Education, Maruthoorkonam",
-        "address": "Pattom Thanu Pillai Memorial College\r\nof Education, Maruthoorkonam,\r\nBalaramapuram, Thiruvananthapuram",
+        "address": "Pattom Thanu Pillai Memorial College of Education, Maruthoorkonam, Balaramapuram, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -7058,7 +7058,7 @@
     {
         "slno": 785,
         "name": "Valiyam Memorial College of Teacher Education, Chavara",
-        "address": "Valiyam Memorial College of Teacher\r\nEducation, Edapally Cotta, Chavara,\r\nKollam 691583",
+        "address": "Valiyam Memorial College of Teacher Education, Edapally Cotta, Chavara, Kollam 691583",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -7067,7 +7067,7 @@
     {
         "slno": 786,
         "name": "METCA Institute of Teacher Education, Chavarcode",
-        "address": "METCA Institute of Teacher\r\nEducation, METCA Land, Chavarcode,\r\nPalayamkunnu PO, Varkala, Thiruvananthapuram 695146",
+        "address": "METCA Institute of Teacher Education, METCA Land, Chavarcode, Palayamkunnu PO, Varkala, Thiruvananthapuram 695146",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -7076,7 +7076,7 @@
     {
         "slno": 787,
         "name": "Pushpageeth College For Teacher Education, Elimala",
-        "address": "Pushpageeth College For Teacher\r\nEducation, Elimala, Kottoor, Thiruvananthapuram",
+        "address": "Pushpageeth College For Teacher Education, Elimala, Kottoor, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Training College",
@@ -7085,7 +7085,7 @@
     {
         "slno": 788,
         "name": "Badhiriya BEd Training College, Velichikkala",
-        "address": "Badhiriya BEd Training College,\r\nVelichikkala, Kollam",
+        "address": "Badhiriya BEd Training College, Velichikkala, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -7094,7 +7094,7 @@
     {
         "slno": 789,
         "name": "KPM BEd College, Cheriyavelinalloor",
-        "address": "KPM BEd College,\r\nCheriyavelinalloor, Kollam",
+        "address": "KPM BEd College, Cheriyavelinalloor, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -7102,8 +7102,8 @@
     },
     {
         "slno": 790,
-        "name": "St. John\u2019s BEd Training College, Peringala",
-        "address": "St. John\u2019s BEd Training College,\r\nPeringala PO, Kayamkulam 690559",
+        "name": "St. John  s BEd Training College, Peringala",
+        "address": "St. John  s BEd Training College, Peringala PO, Kayamkulam 690559",
         "university": "Kerala University",
         "district": "Kayamkulam",
         "category": "Training College",
@@ -7111,8 +7111,8 @@
     },
     {
         "slno": 791,
-        "name": "St. Tresa\u2019s College of Education, Kundara",
-        "address": "St. Tresa\u2019s College of Education,\r\nKundara, Kollam",
+        "name": "St. Tresa  s College of Education, Kundara",
+        "address": "St. Tresa  s College of Education, Kundara, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Training College",
@@ -7121,7 +7121,7 @@
     {
         "slno": 792,
         "name": "KVM College of Special Education, Cherthala",
-        "address": "KVM College of Special Education,\r\nCherthala, Alappuzha",
+        "address": "KVM College of Special Education, Cherthala, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Training College",
@@ -7247,7 +7247,7 @@
     {
         "slno": 806,
         "name": "Younus College of Engineering, Thalachira",
-        "address": "Younus College of Engineering &\r\nTechnology, Thalachira PO, Kottarakkara, Kollam 691546",
+        "address": "Younus College of Engineering & Technology, Thalachira PO, Kottarakkara, Kollam 691546",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7256,7 +7256,7 @@
     {
         "slno": 807,
         "name": "Mary Matha College of Engineering & Technology, Paliyode",
-        "address": "Mary Matha College of Engineering &\r\nTechnology, Paliyode, Dalumugham,\r\nNeyyattinkara, Thiruvananthapuram",
+        "address": "Mary Matha College of Engineering & Technology, Paliyode, Dalumugham, Neyyattinkara, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Engineering/Technical College",
@@ -7292,7 +7292,7 @@
     {
         "slno": 811,
         "name": "Pankajakasthuri College of Engineering & Technology, Kandala",
-        "address": "Pankajakasthuri College of\r\nEngineering & Technology, Kandala,\r\nThiruvananthapuram",
+        "address": "Pankajakasthuri College of Engineering & Technology, Kandala, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Engineering/Technical College",
@@ -7319,7 +7319,7 @@
     {
         "slno": 814,
         "name": "Hindustan College of Engineering, Arippa",
-        "address": "Hindustan College of Engineering, Arippa,Chozhiyakode PO, \r\nKulathupuzha, Kollam 691317",
+        "address": "Hindustan College of Engineering, Arippa,Chozhiyakode PO,  Kulathupuzha, Kollam 691317",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7418,7 +7418,7 @@
     {
         "slno": 825,
         "name": "TKM Institute of Management, Karuvelil",
-        "address": "TKM Institute of Management,\r\nMusaliyar Hills, Karuvelil PO, Kollam\r\n 691505",
+        "address": "TKM Institute of Management, Musaliyar Hills, Karuvelil PO, Kollam  691505",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7427,7 +7427,7 @@
     {
         "slno": 826,
         "name": "Member Sree Narayana Pillai Institute of Management & Technology, Madappally",
-        "address": "Member Sree Narayana Pillai Institute\r\nof Management & Technology,\r\nMadappally, Mukundapuram, Chavara,\r\nKollam",
+        "address": "Member Sree Narayana Pillai Institute of Management & Technology, Madappally, Mukundapuram, Chavara, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7436,7 +7436,7 @@
     {
         "slno": 827,
         "name": "Allama Iqbal Institute of Management, Daivapura",
-        "address": "Allama Iqbal Institute of Management,\r\nIqbal Nagar, Daivapura PO,\r\nPeringamala, Thiruvananthapuram",
+        "address": "Allama Iqbal Institute of Management, Iqbal Nagar, Daivapura PO, Peringamala, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Engineering/Technical College",
@@ -7445,7 +7445,7 @@
     {
         "slno": 828,
         "name": "Kerala Institute of Tourism and Travel Studies, Thycaud",
-        "address": "Kerala Institute of Tourism and Travel\r\nStudies, Thycaud, Thiruvananthapuram",
+        "address": "Kerala Institute of Tourism and Travel Studies, Thycaud, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Engineering/Technical College",
@@ -7463,7 +7463,7 @@
     {
         "slno": 830,
         "name": "Institute of Management & Technology, Punnapra",
-        "address": "Institute of Management &\r\nTechnology, Punnapra, Alappuzha",
+        "address": "Institute of Management & Technology, Punnapra, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Engineering/Technical College",
@@ -7472,7 +7472,7 @@
     {
         "slno": 831,
         "name": "G Karunakaran Memorial Co-Operative College of Management & Technology, Kakkode",
-        "address": "G Karunakaran Memorial Co-Operative College of Management,\r\nPB No 5, Kakkode, Karakulam PO, Thiruvananthapuram 695 564",
+        "address": "G Karunakaran Memorial Co-Operative College of Management, PB No 5, Kakkode, Karakulam PO, Thiruvananthapuram 695 564",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Engineering/Technical College",
@@ -7481,7 +7481,7 @@
     {
         "slno": 832,
         "name": "Gurudev Institute of Management Studies, Kottappuram",
-        "address": "Gurudev Institute of Management\r\nStudies, Kottappuram PO, Kadakkal,\r\nKollam 691 536",
+        "address": "Gurudev Institute of Management Studies, Kottappuram PO, Kadakkal, Kollam 691 536",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7490,7 +7490,7 @@
     {
         "slno": 833,
         "name": "Co operative Institute of Management & Technology, Manvila",
-        "address": "Co operative Institute of Management\r\n& Technology, Manvila, Kulathoor, \r\nThiruvananthapuram 695583",
+        "address": "Co operative Institute of Management & Technology, Manvila, Kulathoor,  Thiruvananthapuram 695583",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Engineering/Technical College",
@@ -7499,7 +7499,7 @@
     {
         "slno": 834,
         "name": "KVVS Institute of Technology, Kaithaparambu",
-        "address": "KVVS Institute of Technology,\r\nKaithaparambu, Adoor, Pathanamthitta",
+        "address": "KVVS Institute of Technology, Kaithaparambu, Adoor, Pathanamthitta",
         "university": "Kerala University",
         "district": "Pathanamthitta",
         "category": "Engineering/Technical College",
@@ -7508,7 +7508,7 @@
     {
         "slno": 835,
         "name": "Mar Thoma Institute of Information Technology, Chadayamangalam, Ayur",
-        "address": "Mar Thoma Institute of Information\r\nTechnology, Chadayamangalam, Ayur, Kollam",
+        "address": "Mar Thoma Institute of Information Technology, Chadayamangalam, Ayur, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7517,7 +7517,7 @@
     {
         "slno": 836,
         "name": "Mar Baselios Institute of Technology, Anchal",
-        "address": "Mar Baselios Institute of Technology,\r\nAnchal PO, Kollam",
+        "address": "Mar Baselios Institute of Technology, Anchal PO, Kollam",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7526,7 +7526,7 @@
     {
         "slno": 837,
         "name": "Sree Narayana Institute of Technology, Vadakkevila",
-        "address": "Sree Narayana Institute of Technology,\r\nVadakkevila PO, Kollam 691010",
+        "address": "Sree Narayana Institute of Technology, Vadakkevila PO, Kollam 691010",
         "university": "Kerala University",
         "district": "Kollam",
         "category": "Engineering/Technical College",
@@ -7535,7 +7535,7 @@
     {
         "slno": 838,
         "name": "Holy Cross College of Nursing, Kottiyam",
-        "address": "Holy Cross College of Nursing,\r\nKottiyam, Kollam 691571",
+        "address": "Holy Cross College of Nursing, Kottiyam, Kollam 691571",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -7544,7 +7544,7 @@
     {
         "slno": 839,
         "name": "CSI College of Nursing, Karakonam",
-        "address": "CSI College of Nursing.\r\nDr SMCSI Medical College &\r\nHospital, Karakonam,\r\nThiruvananthapuram 695 504.",
+        "address": "CSI College of Nursing. Dr SMCSI Medical College & Hospital, Karakonam, Thiruvananthapuram 695 504.",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7553,7 +7553,7 @@
     {
         "slno": 840,
         "name": "St.Joseph`s College of Nursing, Anchal",
-        "address": "St.Joseph`s College of Nursing, Anchal,\r\nKollam 691306",
+        "address": "St.Joseph`s College of Nursing, Anchal, Kollam 691306",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -7562,7 +7562,7 @@
     {
         "slno": 841,
         "name": "KVM College of Nursing, Cherthala",
-        "address": "KVM College of Nursing, KVM\r\nTrust, PB No 13, Cherthala, Alappuzha 688524",
+        "address": "KVM College of Nursing, KVM Trust, PB No 13, Cherthala, Alappuzha 688524",
         "university": "Kerala University of Health Sciences",
         "district": "Alappuzha",
         "category": "Nursing College",
@@ -7571,7 +7571,7 @@
     {
         "slno": 842,
         "name": "Vellappally Natesan Shashtiabdapoorthi Smaraka College of Nursing, Kollam",
-        "address": "Vellappally Natesan\r\nShashtiabdapoorthi Smaraka College\r\nof Nursing, SN Trusts, Medical Mission,\r\nPBNo 32, Kollam 691 001",
+        "address": "Vellappally Natesan Shashtiabdapoorthi Smaraka College of Nursing, SN Trusts, Medical Mission, PBNo 32, Kollam 691 001",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -7580,7 +7580,7 @@
     {
         "slno": 843,
         "name": "Bishop Benziger College of Nursing, Kollam",
-        "address": "Bishop Benziger College of Nursing,\r\nPB No. 46, Sastri Junction, Kollam \u2013 1",
+        "address": "Bishop Benziger College of Nursing, PB No. 46, Sastri Junction, Kollam   1",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -7589,7 +7589,7 @@
     {
         "slno": 844,
         "name": "Sivagiri Sree Narayana Medical Mission College of Nursing, Sreenivasapuram",
-        "address": "Sivagiri Sree Narayana Medical\r\nMission College of Nursing,\r\nSreenivasapuram PO, Varkala, Thiruvananthapuram \r\n695145",
+        "address": "Sivagiri Sree Narayana Medical Mission College of Nursing, Sreenivasapuram PO, Varkala, Thiruvananthapuram  695145",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7625,7 +7625,7 @@
     {
         "slno": 848,
         "name": "Vijaya College of Nursing, Kottarakkara",
-        "address": "Vijaya College of Nursing, Gurugiri\r\nCampus, Neeleswaram P O,\r\nKottarakkara, Kollam - 691 505",
+        "address": "Vijaya College of Nursing, Gurugiri Campus, Neeleswaram P O, Kottarakkara, Kollam - 691 505",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -7634,7 +7634,7 @@
     {
         "slno": 849,
         "name": "Josco College of Nursing, Pandalam",
-        "address": "Josco College of Nursing, Edappon,\r\nIranikudy PO, Josco Junction,\r\nPandalam, Alappuzha 689\r\n515",
+        "address": "Josco College of Nursing, Edappon, Iranikudy PO, Josco Junction, Pandalam, Alappuzha 689 515",
         "university": "Kerala University of Health Sciences",
         "district": "Alappuzha",
         "category": "Nursing College",
@@ -7643,7 +7643,7 @@
     {
         "slno": 850,
         "name": "Mercy College of Nursing, Valakom",
-        "address": "Mercy College of Nursing, Valakom,\r\nKottarakkara, Kollam 691 532",
+        "address": "Mercy College of Nursing, Valakom, Kottarakkara, Kollam 691 532",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -7652,7 +7652,7 @@
     {
         "slno": 851,
         "name": "Nightingale College of Nursing, Nedumangad",
-        "address": "Nightingale College of Nursing,\r\nNedumangad, Thiruvananthapuram 695 541",
+        "address": "Nightingale College of Nursing, Nedumangad, Thiruvananthapuram 695 541",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7661,7 +7661,7 @@
     {
         "slno": 852,
         "name": "KIMS College of Nursing, Anayara",
-        "address": "KIMS College of Nursing,\r\nAnamukham, Anayara PO,\r\nThiruvananthapuram 695 029",
+        "address": "KIMS College of Nursing, Anamukham, Anayara PO, Thiruvananthapuram 695 029",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7670,7 +7670,7 @@
     {
         "slno": 853,
         "name": "Ananthapuri College of Nursing, Ananthapuri Hospitals & Research Institute, Thiruvananthapuram",
-        "address": "Ananthapuri College of Nursing,\r\nAnanthapuri Hospitals & Research\r\nInstitute, Chackai NH Bypass,\r\nThiruvananthapuram 695024",
+        "address": "Ananthapuri College of Nursing, Ananthapuri Hospitals & Research Institute, Chackai NH Bypass, Thiruvananthapuram 695024",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7688,7 +7688,7 @@
     {
         "slno": 855,
         "name": "Azeezia College of Nursing, Meeyannoor",
-        "address": "Azeezia College of Nursing,\r\nMeeyannoor, Kollam 691537",
+        "address": "Azeezia College of Nursing, Meeyannoor, Kollam 691537",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -7697,7 +7697,7 @@
     {
         "slno": 856,
         "name": "Ruckmoni College of Nursing, Ponnambi",
-        "address": "Ruckmoni College of Nursing,\r\nPonnambi, Vellarada PO,\r\nThiruvananthapuram 695505",
+        "address": "Ruckmoni College of Nursing, Ponnambi, Vellarada PO, Thiruvananthapuram 695505",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7706,7 +7706,7 @@
     {
         "slno": 857,
         "name": "St.Thomas College of Nursing, Kattanam",
-        "address": "St.Thomas College of Nursing, Pallickal\r\nPO, Kattanam, Alappuzha",
+        "address": "St.Thomas College of Nursing, Pallickal PO, Kattanam, Alappuzha",
         "university": "Kerala University of Health Sciences",
         "district": "Alappuzha",
         "category": "Nursing College",
@@ -7715,7 +7715,7 @@
     {
         "slno": 858,
         "name": "Sree Gokulam Nursing College, Venjarammoodu",
-        "address": "Sree Gokulam Nursing College,\r\nVenjarammoodu, Thiruvananthapuram 695 607",
+        "address": "Sree Gokulam Nursing College, Venjarammoodu, Thiruvananthapuram 695 607",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7724,7 +7724,7 @@
     {
         "slno": 859,
         "name": "Co-operative College of Nursing, Kakkode",
-        "address": "Co-operative College of Nursing,\r\nKakkode, Aruvikkara PO, Trivandrum",
+        "address": "Co-operative College of Nursing, Kakkode, Aruvikkara PO, Trivandrum",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7733,7 +7733,7 @@
     {
         "slno": 860,
         "name": "NIMS College of Nursing, Neyyattinkara",
-        "address": "NIMS College of Nursing,\r\nNIMS Medicity, Aralummoodu,\r\nNeyyattinkara,\r\nThiruvananthapuram 695 123",
+        "address": "NIMS College of Nursing, NIMS Medicity, Aralummoodu, Neyyattinkara, Thiruvananthapuram 695 123",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -7751,7 +7751,7 @@
     {
         "slno": 862,
         "name": "Azeezia College of Dental Sciences & Research, Meeyyannoor",
-        "address": "Azeezia College of Dental Sciences &\r\nResearch, Diamond Hills, Meeyyannoor\r\nPO, Kollam 691537",
+        "address": "Azeezia College of Dental Sciences & Research, Diamond Hills, Meeyyannoor PO, Kollam 691537",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Dental College",
@@ -7760,7 +7760,7 @@
     {
         "slno": 863,
         "name": "Noorul Islam College of Dental Sciences, Aralummoodu",
-        "address": "Noorul Islam College of Dental\r\nSciences, NIMS Medicity, Aralummoodu\r\nPO, Neyyattinkara, Thiruvananthapuram. 695123",
+        "address": "Noorul Islam College of Dental Sciences, NIMS Medicity, Aralummoodu PO, Neyyattinkara, Thiruvananthapuram. 695123",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Dental College",
@@ -7769,7 +7769,7 @@
     {
         "slno": 864,
         "name": "Sree Sankara Dental College, Akathumuri",
-        "address": "Sree Sankara Dental College,\r\nAkathumuri, Vennecode PO, Varkala, Thiruvananthapuram 695318",
+        "address": "Sree Sankara Dental College, Akathumuri, Vennecode PO, Varkala, Thiruvananthapuram 695318",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Dental College",
@@ -7778,7 +7778,7 @@
     {
         "slno": 865,
         "name": "Santhigiri Siddha Medical College, Santhigiri",
-        "address": "Santhigiri Siddha Medical College,\r\nSanthigiri PO, Thiruvananthapuram - 695\r\n589",
+        "address": "Santhigiri Siddha Medical College, Santhigiri PO, Thiruvananthapuram - 695 589",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Siddha College",
@@ -7787,7 +7787,7 @@
     {
         "slno": 866,
         "name": "Pankaja Kasthuri Ayurveda Medical College, Killi",
-        "address": "Pankaja Kasthuri Ayurveda Medical\r\nCollege, Killi, Kattakada, Thiruvananthapuram 695 572",
+        "address": "Pankaja Kasthuri Ayurveda Medical College, Killi, Kattakada, Thiruvananthapuram 695 572",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Ayurveda College",
@@ -7796,7 +7796,7 @@
     {
         "slno": 867,
         "name": "Sree Narayana Institute of Ayurvedic Studies & Research, Karimpinpuzha",
-        "address": "Sree Narayana Institute of Ayurvedic\r\nStudies& Research, Karimpinpuzha,\r\nPuthur, Kollam 691\r\n513",
+        "address": "Sree Narayana Institute of Ayurvedic Studies& Research, Karimpinpuzha, Puthur, Kollam 691 513",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Ayurveda College",
@@ -7805,7 +7805,7 @@
     {
         "slno": 868,
         "name": "Mannam Ayurveda Co operative Medical College, Pandalam",
-        "address": "Mannam Ayurveda Co operative\r\nMedical College, MSM PO, Pandalam,\r\nPathanamthitta 689501",
+        "address": "Mannam Ayurveda Co operative Medical College, MSM PO, Pandalam, Pathanamthitta 689501",
         "university": "Kerala University of Health Sciences",
         "district": "Pathanamthitta",
         "category": "Ayurveda College",
@@ -7814,7 +7814,7 @@
     {
         "slno": 869,
         "name": "Dr. Somerwell Memorial CSI Medical College, Karakonam",
-        "address": "Dr. Somerwell Memorial CSI Medical\r\nCollege, Karakonam, Thiruvananthapuram",
+        "address": "Dr. Somerwell Memorial CSI Medical College, Karakonam, Thiruvananthapuram",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Medical College",
@@ -7823,7 +7823,7 @@
     {
         "slno": 870,
         "name": "Sree Gokulam Medical College & Research Foundation, Venjaramoodu",
-        "address": "Sree Gokulam Medical College &\r\nResearch Foundation, Venjaramoodu,\r\nThiruvananthapuram 695 507",
+        "address": "Sree Gokulam Medical College & Research Foundation, Venjaramoodu, Thiruvananthapuram 695 507",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Medical College",
@@ -7841,7 +7841,7 @@
     {
         "slno": 872,
         "name": "Azeezia Institute of Medical Sciences & Research, Meeyannoor",
-        "address": "Azeezia Institute of Medical Sciences &\r\nResearch, Meeyannoor, Kollam",
+        "address": "Azeezia Institute of Medical Sciences & Research, Meeyannoor, Kollam",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Medical College",
@@ -7850,7 +7850,7 @@
     {
         "slno": 873,
         "name": "Travancore Medical College, Umayanalloor",
-        "address": "Travancore Medical College,\r\nMedicity, NH By Pass,\r\nUmayanalloor PO, Kollam\r\n691 589",
+        "address": "Travancore Medical College, Medicity, NH By Pass, Umayanalloor PO, Kollam 691 589",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Medical College",
@@ -7859,7 +7859,7 @@
     {
         "slno": 874,
         "name": "Dale View College of Pharmacy & Research Centre, Punalal",
-        "address": "Dale View College of Pharmacy &\r\nResearch Centre, Punalal PO,\r\nPoovachal, Thiruvananthapuram 695 575",
+        "address": "Dale View College of Pharmacy & Research Centre, Punalal PO, Poovachal, Thiruvananthapuram 695 575",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Pharmacy College",
@@ -7877,7 +7877,7 @@
     {
         "slno": 876,
         "name": "St. Joseph`s College of Pharmacy, Dharmagiri College Campus, Cherthala",
-        "address": "St. Joseph`s College of Pharmacy,\r\nDharmagiri College Campus, Naipunnya\r\nRoad, Cherthala, Alappuzha 688524",
+        "address": "St. Joseph`s College of Pharmacy, Dharmagiri College Campus, Naipunnya Road, Cherthala, Alappuzha 688524",
         "university": "Kerala University of Health Sciences",
         "district": "Alappuzha",
         "category": "Pharmacy College",
@@ -7886,7 +7886,7 @@
     {
         "slno": 877,
         "name": "Mar Dioscorus College of Pharmacy, Alathara",
-        "address": "Mar Dioscorus College of Pharmacy,\r\nAlathara, Sreekariyam PO, Thiruvananthapuram \r\n695017",
+        "address": "Mar Dioscorus College of Pharmacy, Alathara, Sreekariyam PO, Thiruvananthapuram  695017",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Pharmacy College",
@@ -7895,7 +7895,7 @@
     {
         "slno": 878,
         "name": "Sree Krishna College of Pharmacy & Research Centre, Parassala",
-        "address": "Sree Krishna College of Pharmacy &\r\nResearch Centre, Near Railway Station,\r\nParassala PO, Thiruvananthapuram 695502",
+        "address": "Sree Krishna College of Pharmacy & Research Centre, Near Railway Station, Parassala PO, Thiruvananthapuram 695502",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Pharmacy College",
@@ -7913,7 +7913,7 @@
     {
         "slno": 880,
         "name": "KVM Institute of Paramedical Sciences, Cherthala",
-        "address": "KVM Institute of Paramedical\r\nSciences, Cherthala, Alappuzha 688524",
+        "address": "KVM Institute of Paramedical Sciences, Cherthala, Alappuzha 688524",
         "university": "Kerala University of Health Sciences",
         "district": "Alappuzha",
         "category": "Paramedical & Allied Sciences",
@@ -7922,7 +7922,7 @@
     {
         "slno": 881,
         "name": "Lourdes Matha Institute of Hotel Management and Catering Technology, Kuttichal",
-        "address": "Lourdes Matha Institute of Hotel\r\nManagement and Catering\r\nTechnology, Lourdes Hills, Kuttichal,\r\nThiruvananthapuram",
+        "address": "Lourdes Matha Institute of Hotel Management and Catering Technology, Lourdes Hills, Kuttichal, Thiruvananthapuram",
         "university": "Kerala University",
         "district": "Thiruvananthapuram",
         "category": "Hotel Management College",
@@ -7931,7 +7931,7 @@
     {
         "slno": 882,
         "name": "Sree Narayana Guru Memorial Catering College, Thuravoor",
-        "address": "Sree Narayana Guru Memorial\r\nCatering College, Valamangalam South\r\nPO, Thuravoor, Cherthala, \r\nAlappuzha",
+        "address": "Sree Narayana Guru Memorial Catering College, Valamangalam South PO, Thuravoor, Cherthala,  Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Hotel Management College",
@@ -7940,7 +7940,7 @@
     {
         "slno": 883,
         "name": "Snehacharya Institue of Hotel Management and Technology, Karuvatta",
-        "address": "Snehacharya Institue of Hotel\r\nManagement and Technology,\r\nKaruvatta PO, Alappuzha",
+        "address": "Snehacharya Institue of Hotel Management and Technology, Karuvatta PO, Alappuzha",
         "university": "Kerala University",
         "district": "Alappuzha",
         "category": "Hotel Management College",
@@ -7958,7 +7958,7 @@
     {
         "slno": 885,
         "name": "Al-Shifa College of Nursing, Perinthalmanna",
-        "address": "Al Shifa College of Nursing, Lemon\r\nValley, Angadipuram PO,\r\nPerinthalmanna, Malappuram \r\n679 321",
+        "address": "Al Shifa College of Nursing, Lemon Valley, Angadipuram PO, Perinthalmanna, Malappuram  679 321",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Nursing College",
@@ -8003,7 +8003,7 @@
     {
         "slno": 890,
         "name": "Al Shifa College of Pharmacy, Perinthalmanna",
-        "address": "Al Shifa College of Pharmacy,\r\nPoonthavanam PO, Kizhattur,\r\nPerinthalmanna, Malappuram \r\n679 325",
+        "address": "Al Shifa College of Pharmacy, Poonthavanam PO, Kizhattur, Perinthalmanna, Malappuram  679 325",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Pharmacy College",
@@ -8048,7 +8048,7 @@
     {
         "slno": 895,
         "name": "MIMS College of Allied Health Sciences, Mankavu",
-        "address": "MIMS College of Allied Health Sciences, Mayon Building , KK Raman Road, Mankavu PO, \r\nKozhikkode 673007",
+        "address": "MIMS College of Allied Health Sciences, Mayon Building , KK Raman Road, Mankavu PO,  Kozhikkode 673007",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Paramedical & Allied Sciences",
@@ -8137,7 +8137,7 @@
     },
     {
         "slno": 905,
-        "name": "Majma\u2019a Training College, Kavanur",
+        "name": "Majma  a Training College, Kavanur",
         "address": "Majma'a Training College, Rahmath Nagar, Kavanur, Malappuram",
         "university": "Calicut University",
         "district": "Malappuram",
@@ -8201,7 +8201,7 @@
     {
         "slno": 912,
         "name": "MES Dental College, Perinthalmanna",
-        "address": "MES Dental College,\r\nPerinthalmanna, Palachode PO,\r\nKulathur (via), Malappurama \r\n679 338",
+        "address": "MES Dental College, Perinthalmanna, Palachode PO, Kulathur (via), Malappurama  679 338",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Dental College",
@@ -8210,7 +8210,7 @@
     {
         "slno": 913,
         "name": "Educare Institute of Dental Sciences, Chattipparamba",
-        "address": "Educare Institute of Dental Sciences, Kiliyamanil Campus, College Road,\r\nChattiparamba, Malappuram 676504",
+        "address": "Educare Institute of Dental Sciences, Kiliyamanil Campus, College Road, Chattiparamba, Malappuram 676504",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Dental College",
@@ -8309,7 +8309,7 @@
     {
         "slno": 924,
         "name": "Amala Institute of Medical Sciences, Thrissur",
-        "address": "Amala Institute of Medical\r\nSciences, Amala Nagar PO, Thrissur 680555",
+        "address": "Amala Institute of Medical Sciences, Amala Nagar PO, Thrissur 680555",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Medical College",
@@ -8318,7 +8318,7 @@
     {
         "slno": 925,
         "name": "Jubilee Mission Medical College & Research Institute, Thrissur",
-        "address": "Jubilee Mission Medical College\r\n& Research Institute, Bishop\r\nAlapatt Road, Jubilee Mission PO, Thrissur 680 005",
+        "address": "Jubilee Mission Medical College & Research Institute, Bishop Alapatt Road, Jubilee Mission PO, Thrissur 680 005",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Medical College",
@@ -8336,7 +8336,7 @@
     {
         "slno": 927,
         "name": "Malabar Medical College Hospital & Research Centre, Modakkallur",
-        "address": "Malabar Medical College\r\nHospital & Research Centre,\r\nModakkallur, Kozhikkode -673715",
+        "address": "Malabar Medical College Hospital & Research Centre, Modakkallur, Kozhikkode -673715",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Medical College",
@@ -8345,7 +8345,7 @@
     {
         "slno": 928,
         "name": "Regional Cancer Centre, Thiruvananthapuram",
-        "address": "Regional Cancer Centre,\r\nThiruvananthapuram",
+        "address": "Regional Cancer Centre, Thiruvananthapuram",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Medical College",
@@ -8363,7 +8363,7 @@
     {
         "slno": 930,
         "name": "Santhigiri Ayurveda Medical College, Olassery",
-        "address": "Santhigiri Ayurveda Medical\r\nCollege, Olassery, Kodumbu (Via), Palakkad 678551",
+        "address": "Santhigiri Ayurveda Medical College, Olassery, Kodumbu (Via), Palakkad 678551",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Ayurveda College",
@@ -8372,7 +8372,7 @@
     {
         "slno": 931,
         "name": "Ahalia Ayurveda Medical College, Palakkad",
-        "address": "Ahalia Ayurveda Medical College, P\r\nB No. 122, Kanalpirivu, Palakkad-\r\n678557",
+        "address": "Ahalia Ayurveda Medical College, P B No. 122, Kanalpirivu, Palakkad- 678557",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Ayurveda College",
@@ -8381,7 +8381,7 @@
     {
         "slno": 932,
         "name": "Almas College of Nursing, Kottakkal",
-        "address": "Almas College of Nursing, Kottakkal,\r\nMalappuram 676 503",
+        "address": "Almas College of Nursing, Kottakkal, Malappuram 676 503",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Nursing College",
@@ -8399,7 +8399,7 @@
     {
         "slno": 934,
         "name": "Chitra College of Nursing, Pandalam",
-        "address": "Chitra College of Nursing, Chitra\r\nInstitute of Medical Science and\r\nResearch Centre, MC Road,\r\nPandalam 689 501",
+        "address": "Chitra College of Nursing, Chitra Institute of Medical Science and Research Centre, MC Road, Pandalam 689 501",
         "university": "Kerala University of Health Sciences",
         "district": "Pathanamthitta",
         "category": "Nursing College",
@@ -8408,7 +8408,7 @@
     {
         "slno": 935,
         "name": "CMC Nursing College, Kalamassery",
-        "address": "CMC Nursing College, Kalamassery,\r\nKochi",
+        "address": "CMC Nursing College, Kalamassery, Kochi",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -8417,7 +8417,7 @@
     {
         "slno": 936,
         "name": "Dhanalakshmi College of Nursing, Kakkad",
-        "address": "Dhanalakshmi College of Nursing,\r\nDhanalakshmi Hospitals Pvt. Ltd, Kakkad PO, \r\nKannur 670005",
+        "address": "Dhanalakshmi College of Nursing, Dhanalakshmi Hospitals Pvt. Ltd, Kakkad PO,  Kannur 670005",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Nursing College",
@@ -8435,7 +8435,7 @@
     {
         "slno": 938,
         "name": "DT Islam College of Nursing, Vellimadukunnu",
-        "address": "JDT Islam College of Nursing,\r\nVellimadukunnu, Kozhikkode 673 012",
+        "address": "JDT Islam College of Nursing, Vellimadukunnu, Kozhikkode 673 012",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Nursing College",
@@ -8444,7 +8444,7 @@
     {
         "slno": 939,
         "name": "Karuna College of Nursing, Chittur",
-        "address": "Karuna College of Nursing, Vilayodi,\r\nChittur, Palakkad 678 103",
+        "address": "Karuna College of Nursing, Vilayodi, Chittur, Palakkad 678 103",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Nursing College",
@@ -8453,7 +8453,7 @@
     {
         "slno": 940,
         "name": "Laxmi Meghan College of Nursing, Kanhangad",
-        "address": "Laxmi Meghan College of\r\nNursing, Kanhangad,\r\nKasargod 671 315",
+        "address": "Laxmi Meghan College of Nursing, Kanhangad, Kasargod 671 315",
         "university": "Kerala University of Health Sciences",
         "district": "Kasaragod",
         "category": "Nursing College",
@@ -8462,7 +8462,7 @@
     {
         "slno": 941,
         "name": "Malankara Orthodox Syrian Church College of Nursing, Kolencherry",
-        "address": "Malankara Orthodox Syrian Church\r\nCollege of Nursing, Kolencherry PO, Ernakulam, 682 311",
+        "address": "Malankara Orthodox Syrian Church College of Nursing, Kolencherry PO, Ernakulam, 682 311",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -8471,7 +8471,7 @@
     {
         "slno": 942,
         "name": "Poyanil College of Nursing, Kozhenchery",
-        "address": "Poyanil College of Nursing, PB No. 15, Kozhenchery, Pathanamthitta\r\n689 641",
+        "address": "Poyanil College of Nursing, PB No. 15, Kozhenchery, Pathanamthitta 689 641",
         "university": "Kerala University of Health Sciences",
         "district": "Pathanamthitta",
         "category": "Nursing College",
@@ -8479,8 +8479,8 @@
     },
     {
         "slno": 943,
-        "name": "Red Crescent College of Nursing,\r\n Feroke",
-        "address": "Red Crescent College of Nursing,\r\nChungam PO, Feroke, Calicut 673 631",
+        "name": "Red Crescent College of Nursing,  Feroke",
+        "address": "Red Crescent College of Nursing, Chungam PO, Feroke, Calicut 673 631",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Nursing College",
@@ -8525,7 +8525,7 @@
     {
         "slno": 948,
         "name": "Travancore College of Nursing, Mylapore",
-        "address": "Travancore College of Nursing,\r\nQuilon Medical Trust, Mylapore,\r\nUmayanalloor PO, Kollam 691 589",
+        "address": "Travancore College of Nursing, Quilon Medical Trust, Mylapore, Umayanalloor PO, Kollam 691 589",
         "university": "Kerala University of Health Sciences",
         "district": "Kollam",
         "category": "Nursing College",
@@ -8534,7 +8534,7 @@
     {
         "slno": 949,
         "name": "West Fort College of Nursing, Pottore",
-        "address": "West Fort College of Nursing, WAHE,\r\nPB No 16, MG Kavu, Pottore,\r\nThrissur 680 581.",
+        "address": "West Fort College of Nursing, WAHE, PB No 16, MG Kavu, Pottore, Thrissur 680 581.",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Nursing College",
@@ -8552,7 +8552,7 @@
     {
         "slno": 951,
         "name": "Santhi College of Nursing, Omassery",
-        "address": "Santhi College of Nursing, Islamic\r\nWelfare Trust, Omassery, Calicut\r\n673572",
+        "address": "Santhi College of Nursing, Islamic Welfare Trust, Omassery, Calicut 673572",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Nursing College",
@@ -8561,7 +8561,7 @@
     {
         "slno": 952,
         "name": "Carmel College of Nursing, Aluva",
-        "address": "Carmel College of Nursing, Carmel\r\nMedical Society, Asokapuram,\r\nAluva, Ernakulam 683 101",
+        "address": "Carmel College of Nursing, Carmel Medical Society, Asokapuram, Aluva, Ernakulam 683 101",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -8570,7 +8570,7 @@
     {
         "slno": 953,
         "name": "Seventh Day Adventist College of Nursing, Ottapalam",
-        "address": "Seventh Day Adventist College of\r\nNursing, Kanniampuram PO, Post\r\nBox 451, Ottapalam, Palakkad 679\r\n104",
+        "address": "Seventh Day Adventist College of Nursing, Kanniampuram PO, Post Box 451, Ottapalam, Palakkad 679 104",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Nursing College",
@@ -8579,7 +8579,7 @@
     {
         "slno": 954,
         "name": "PRS College of Nursing, Killipalam",
-        "address": "PRS College of Nursing, PRS\r\nHospital, Killipalam,\r\nThiruvananthapuram 695 002",
+        "address": "PRS College of Nursing, PRS Hospital, Killipalam, Thiruvananthapuram 695 002",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvananthapuram",
         "category": "Nursing College",
@@ -8588,7 +8588,7 @@
     {
         "slno": 955,
         "name": "Sree Sudheendra College of Nursing, Chittoor Road",
-        "address": "Sree Sudheendra College of\r\nNursing, Sree Sudheendra Medical\r\nMission, Chittoor Road, Ernakulam\r\n682 018",
+        "address": "Sree Sudheendra College of Nursing, Sree Sudheendra Medical Mission, Chittoor Road, Ernakulam 682 018",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -8615,7 +8615,7 @@
     {
         "slno": 958,
         "name": "College of Nursing, Muvattupuzha",
-        "address": "College of Nursing, Nirmala Medical\r\nCentre, Muvattupuzha 686 661",
+        "address": "College of Nursing, Nirmala Medical Centre, Muvattupuzha 686 661",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -8624,7 +8624,7 @@
     {
         "slno": 959,
         "name": "Welcare College of Nursing, Kadavanthra",
-        "address": "Welcare College of Nursing,\r\nMidhun Towers, KP Vallon Road,\r\nKadavanthra, Kochi 682 020",
+        "address": "Welcare College of Nursing, Midhun Towers, KP Vallon Road, Kadavanthra, Kochi 682 020",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Nursing College",
@@ -8633,7 +8633,7 @@
     {
         "slno": 960,
         "name": "Vinayaka College of Nursing, Sulthan Bathery",
-        "address": "Vinayaka College of Nursing,\r\nVinayaka Hospital, Sulthan Bathery,\r\nWayanad 673592",
+        "address": "Vinayaka College of Nursing, Vinayaka Hospital, Sulthan Bathery, Wayanad 673592",
         "university": "Kerala University of Health Sciences",
         "district": "Wayanad",
         "category": "Nursing College",
@@ -8642,7 +8642,7 @@
     {
         "slno": 961,
         "name": "Elite College of Nursing, Koorkkenchery",
-        "address": "Elite College of Nursing, Elite\r\nMission Hospital, Koorkkenchery,\r\nThrissur 680 007",
+        "address": "Elite College of Nursing, Elite Mission Hospital, Koorkkenchery, Thrissur 680 007",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Nursing College",
@@ -8660,7 +8660,7 @@
     {
         "slno": 963,
         "name": "SP Fort College of Nursing, Fort",
-        "address": "SP Fort College of Nursing, SP Fort\r\nHospital, Fort, Thiruvananthapuram\r\n695 023",
+        "address": "SP Fort College of Nursing, SP Fort Hospital, Fort, Thiruvananthapuram 695 023",
         "university": "Kerala University of Health Sciences",
         "district": "Thiruvannathapuram",
         "category": "Nursing College",
@@ -8678,7 +8678,7 @@
     {
         "slno": 965,
         "name": "Sree Anjaneya college of Nursing, Calicut",
-        "address": "Sree Anjaneya college of Nursing,\r\nCalicut",
+        "address": "Sree Anjaneya college of Nursing, Calicut",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Nursing College",
@@ -8687,7 +8687,7 @@
     {
         "slno": 966,
         "name": "Mount Zion Nursing College, Adoor",
-        "address": "Mount Zion Nursing College, Adoor,\r\nPathanamthitta",
+        "address": "Mount Zion Nursing College, Adoor, Pathanamthitta",
         "university": "Kerala University of Health Sciences",
         "district": "Pathanamthitta",
         "category": "Nursing College",
@@ -8696,7 +8696,7 @@
     {
         "slno": 967,
         "name": "Velankanni Matha College of Nursing, Thellakom",
-        "address": "Velankanni Matha College of\r\nNursing, Matha Hospitals Pvt. Ltd,\r\nThellakom PO, Kottayam 686 630",
+        "address": "Velankanni Matha College of Nursing, Matha Hospitals Pvt. Ltd, Thellakom PO, Kottayam 686 630",
         "university": "Kerala University of Health Sciences",
         "district": "Kottayam",
         "category": "Nursing College",
@@ -8723,7 +8723,7 @@
     {
         "slno": 970,
         "name": "Karuna College of Pharmacy, Iringutoor",
-        "address": "Karuna College of Pharmacy,\r\nIringutoor, Palakkad 679533",
+        "address": "Karuna College of Pharmacy, Iringutoor, Palakkad 679533",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Pharmacy College",
@@ -8732,7 +8732,7 @@
     {
         "slno": 971,
         "name": "College of Pharmacy, Kannur",
-        "address": "College of Pharmacy, Kannur\r\nMedical College, Kannur 670612",
+        "address": "College of Pharmacy, Kannur Medical College, Kannur 670612",
         "university": "Kerala University of Health Sciences",
         "district": "Kannuar",
         "category": "Pharmacy College",
@@ -8741,7 +8741,7 @@
     {
         "slno": 972,
         "name": "KTN College of Pharmacy, Ottapalam",
-        "address": "KTN College of pharmacy,\r\nChalavara, Ottapalam, Palakkad",
+        "address": "KTN College of pharmacy, Chalavara, Ottapalam, Palakkad",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Pharmacy College",
@@ -8759,7 +8759,7 @@
     {
         "slno": 974,
         "name": "Moulana College of Pharmacy, Perintalmanna",
-        "address": "Moulana College of Pharmacy,\r\nPerintalmanna",
+        "address": "Moulana College of Pharmacy, Perintalmanna",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Pharmacy College",
@@ -8768,7 +8768,7 @@
     {
         "slno": 975,
         "name": "KVM College of Pharmacy, Cherthala",
-        "address": "KVM College of Pharmacy, KVM\r\nTrust, PB No 13, Cherthala,\r\nAlappuzha 688 524",
+        "address": "KVM College of Pharmacy, KVM Trust, PB No 13, Cherthala, Alappuzha 688 524",
         "university": "Kerala University of Health Sciences",
         "district": "Alappuzha",
         "category": "Pharmacy College",
@@ -8795,7 +8795,7 @@
     {
         "slno": 978,
         "name": "EMS College of Paramedical Sciences, Perinthalmanna",
-        "address": "EMS College of Paramedical\r\nSciences, EMS Memorial Co-\r\nOperative Hospital,\r\nPerinthalmanna, Malappuram 679 322",
+        "address": "EMS College of Paramedical Sciences, EMS Memorial Co- Operative Hospital, Perinthalmanna, Malappuram 679 322",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Paramedical & Allied Sciences",
@@ -8804,7 +8804,7 @@
     {
         "slno": 979,
         "name": "Presentation Centre of Allied Sciences, Puthenvelikkara",
-        "address": "Presentation centre of Allied\r\nSciences, Puthenvelikkara,\r\nErnakulam-683102",
+        "address": "Presentation centre of Allied Sciences, Puthenvelikkara, Ernakulam-683102",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Paramedical & Allied Sciences",
@@ -8813,7 +8813,7 @@
     {
         "slno": 980,
         "name": "Al-Ameen College of Medical Sciences, Aluva",
-        "address": "Al-Ameen College of Medical\r\nSciences, Edathala North PO, Aluva, Ernakulam 683 564",
+        "address": "Al-Ameen College of Medical Sciences, Edathala North PO, Aluva, Ernakulam 683 564",
         "university": "Kerala University of Health Sciences",
         "district": "Ernakulam",
         "category": "Paramedical & Allied Sciences",
@@ -8822,7 +8822,7 @@
     {
         "slno": 981,
         "name": "Al Salama Eye Hospital Ltd, Perinthalmanna",
-        "address": "Al Salama Eye Hospital Ltd,\r\nHospital Road, Perinthalmanna,\r\nMalappuram",
+        "address": "Al Salama Eye Hospital Ltd, Hospital Road, Perinthalmanna, Malappuram",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Paramedical & Allied Sciences",
@@ -8831,7 +8831,7 @@
     {
         "slno": 982,
         "name": "JDT College of Physiotherapy, Vellimadukkunnu",
-        "address": "JDT College of Physiotherapy,\r\nVellimadukkunnu, Kozhikkode 673012",
+        "address": "JDT College of Physiotherapy, Vellimadukkunnu, Kozhikkode 673012",
         "university": "Kerala University of Health Sciences",
         "district": "Kozhikode",
         "category": "Paramedical & Allied Sciences",
@@ -8849,7 +8849,7 @@
     {
         "slno": 984,
         "name": "Institute of Paramedical Sciences, Kannur Medical College",
-        "address": "Institute of Paramedical Sciences, \r\nKannur Medical\r\nCollege, Anjarakandi PO ,\r\nKannur 670612",
+        "address": "Institute of Paramedical Sciences,  Kannur Medical College, Anjarakandi PO , Kannur 670612",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Paramedical & Allied Sciences",
@@ -8858,7 +8858,7 @@
     {
         "slno": 985,
         "name": "Academy of Medical Science, Pariyaram",
-        "address": "Academy of Medical Science,\r\nPariyaram, Kannur 670503",
+        "address": "Academy of Medical Science, Pariyaram, Kannur 670503",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Paramedical & Allied Sciences",
@@ -8867,7 +8867,7 @@
     {
         "slno": 986,
         "name": "Al Shifa College of Paramedical Sciences, Perinthalmanna",
-        "address": "Al Shifa College of Paramedical\r\nSciences, Perinthalmanna,\r\nMalappuram 679321",
+        "address": "Al Shifa College of Paramedical Sciences, Perinthalmanna, Malappuram 679321",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Paramedical & Allied Sciences",
@@ -8876,7 +8876,7 @@
     {
         "slno": 987,
         "name": "West Fort Institute of Paramedical Sciences, Pottore",
-        "address": "West Fort Institute of Paramedical\r\nSciences , PB No. 16, M G Kavu,\r\nPottore, Thrissur 680 581",
+        "address": "West Fort Institute of Paramedical Sciences , PB No. 16, M G Kavu, Pottore, Thrissur 680 581",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Paramedical & Allied Sciences",
@@ -8885,7 +8885,7 @@
     {
         "slno": 988,
         "name": "Mother college of Medical lab Technology, Thrissur",
-        "address": "Mother college of Medical lab\r\nTechnology, Thrissur",
+        "address": "Mother college of Medical lab Technology, Thrissur",
         "university": "Kerala University of Health Sciences",
         "district": "Thrissur",
         "category": "Paramedical & Allied Sciences",
@@ -8921,7 +8921,7 @@
     {
         "slno": 992,
         "name": "MES Institute of Paramedical Sciences, Perintalmanna",
-        "address": "MES Institute of Paramedical\r\nSciences, Perintalmanna,Malappuram",
+        "address": "MES Institute of Paramedical Sciences, Perintalmanna,Malappuram",
         "university": "Kerala University of Health Sciences",
         "district": "Malappuram",
         "category": "Paramedical & Allied Sciences",
@@ -8929,8 +8929,8 @@
     },
     {
         "slno": 993,
-        "name": "Ahaila Foundation Eye Hospital,\r\nPalakkad",
-        "address": "Ahaila Foundation Eye Hospital,\r\nKozhipara, Palakkad",
+        "name": "Ahaila Foundation Eye Hospital, Palakkad",
+        "address": "Ahaila Foundation Eye Hospital, Kozhipara, Palakkad",
         "university": "Kerala University of Health Sciences",
         "district": "Palakkad",
         "category": "Paramedical & Allied Sciences",
@@ -8939,7 +8939,7 @@
     {
         "slno": 994,
         "name": "Kanate Foundation, Lourde Hospital Building, Thaliparamba",
-        "address": "Kanate Foundation, Lourde\r\nHospital Building, Thaliparamba, Kannur",
+        "address": "Kanate Foundation, Lourde Hospital Building, Thaliparamba, Kannur",
         "university": "Kerala University of Health Sciences",
         "district": "Kannur",
         "category": "Paramedical & Allied Sciences",
@@ -9308,7 +9308,7 @@
     {
         "slno": 1035,
         "name": "College of Co-operation, Banking and Management Vellanikkara",
-        "address": "College of Co-operation, Banking and Management\r\nVellanikkara, Thrissur 680656",
+        "address": "College of Co-operation, Banking and Management Vellanikkara, Thrissur 680656",
         "university": "Kerala Agricultural University",
         "district": "Thrissur",
         "category": "Agriculture College",
@@ -10271,7 +10271,7 @@
     {
         "slno": 1142,
         "name": "Aarupadai Veedu Institute of Technology, Chennai",
-        "address": "Aarupadai Veedu Institute of Technology, Vinayaka Nagar,Old Mahabalipuram Road, Paiyanoor, Kancheepuram \r\nChennai - 603 104",
+        "address": "Aarupadai Veedu Institute of Technology, Vinayaka Nagar,Old Mahabalipuram Road, Paiyanoor, Kancheepuram  Chennai - 603 104",
         "university": "Anna University Chennai",
         "district": "Kanchipuram",
         "category": "Engineering/Technical College",
@@ -10379,7 +10379,7 @@
     {
         "slno": 1154,
         "name": "AAA College of Engineering and Technology, Amathur",
-        "address": "AAA College of Engineering and Technology, Kamarajar Educational Road, Sivakasi \u2013 Virudhunagar Main Road, Amathur 626 005, Tamil Nadu",
+        "address": "AAA College of Engineering and Technology, Kamarajar Educational Road, Sivakasi   Virudhunagar Main Road, Amathur 626 005, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Virudhunagar",
         "category": "Engineering/Technical College",
@@ -10739,7 +10739,7 @@
     {
         "slno": 1194,
         "name": "Arjun College of Technology, Kinathukadavu",
-        "address": "Arjun College of Technology, Chettiyakkapalayam,\r\nThamaraikulam-Nehamam Main road, Kinathukadavu, Coimbatore - 642120, Tamil Nadu",
+        "address": "Arjun College of Technology, Chettiyakkapalayam, Thamaraikulam-Nehamam Main road, Kinathukadavu, Coimbatore - 642120, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Coimbatore",
         "category": "Engineering/Technical College",
@@ -10838,7 +10838,7 @@
     {
         "slno": 1205,
         "name": "AVS Technical Campus, Attur",
-        "address": "AVS Technical Campus, ttur Main Road, Chinnagoundapuram, Salem \u2013 636 106, Tamil Nadu",
+        "address": "AVS Technical Campus, ttur Main Road, Chinnagoundapuram, Salem   636 106, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Salem",
         "category": "Engineering/Technical College",
@@ -11054,7 +11054,7 @@
     {
         "slno": 1229,
         "name": "DMI College of Engineering, Nazarethpet",
-        "address": "DMI College of Engineering, Palanchur \u2013 Nazarethpet Post\r\nChennai - 602103, Tamil Nadu",
+        "address": "DMI College of Engineering, Palanchur   Nazarethpet Post Chennai - 602103, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Chennai",
         "category": "Engineering/Technical College",
@@ -11090,7 +11090,7 @@
     {
         "slno": 1233,
         "name": "Dhaanish Ahmed Institute of Technology, Pichanur",
-        "address": "Dhaanish Ahmed Institute of Technology, Dhaanish Avenue, Verappanur, K.G.Chavadi, Coimbatore \u2013 641 105, Tamil Nadu",
+        "address": "Dhaanish Ahmed Institute of Technology, Dhaanish Avenue, Verappanur, K.G.Chavadi, Coimbatore   641 105, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Coimbatore",
         "category": "Engineering/Technical College",
@@ -11396,7 +11396,7 @@
     {
         "slno": 1267,
         "name": "GKM College of Engineering and Technology, Perungalathur",
-        "address": "GKM College of Engineering and Technology, GKM Nagar\r\nPerungalathur (Near Tambaram)\r\nChennai - 600 063, Tamil Nadu",
+        "address": "GKM College of Engineering and Technology, GKM Nagar Perungalathur (Near Tambaram) Chennai - 600 063, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Chennai",
         "category": "Engineering/Technical College",
@@ -11918,7 +11918,7 @@
     {
         "slno": 1325,
         "name": "Joe Suresh Engineering College, Ponnagudi",
-        "address": "Joe Suresh Engineering College, NH 7 (Opposite Sengulam Railway Station), Raja Nagar, Ponnagudi Mundradaippu, Bus Stop Tirunelveli \u2013627 152, Tamil Nad",
+        "address": "Joe Suresh Engineering College, NH 7 (Opposite Sengulam Railway Station), Raja Nagar, Ponnagudi Mundradaippu, Bus Stop Tirunelveli  627 152, Tamil Nad",
         "university": "Anna University Chennai",
         "district": "Tirunelveli",
         "category": "Engineering/Technical College",
@@ -12188,7 +12188,7 @@
     {
         "slno": 1355,
         "name": "Karur College of Engineering, Athur",
-        "address": "Karur College of Engineering, Karur \u2013 Erode main road, Athur PO, Karur \u2013 639002, Tamil Nadu",
+        "address": "Karur College of Engineering, Karur   Erode main road, Athur PO, Karur   639002, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Karur",
         "category": "Engineering/Technical College",
@@ -12727,8 +12727,8 @@
     },
     {
         "slno": 1415,
-        "name": "Mcgan\u2019s Ooty School of Architecture, Kothagiri",
-        "address": "Mcgan\u2019s Ooty School of Architecture, 5/635, Perar, Kothagiri Road, The Nilgiris 643002, Tamil Nadu",
+        "name": "Mcgan  s Ooty School of Architecture, Kothagiri",
+        "address": "Mcgan  s Ooty School of Architecture, 5/635, Perar, Kothagiri Road, The Nilgiris 643002, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "The Nilgiris",
         "category": "Engineering/Technical College",
@@ -13187,7 +13187,7 @@
     {
         "slno": 1466,
         "name": "PMR Engineering College, Vanagaram",
-        "address": "PMR Engineering College, Adayalampattu, Vanagaram, Next to Maduravoyil, Chennai \u2013 600 095, Tamil Nadu",
+        "address": "PMR Engineering College, Adayalampattu, Vanagaram, Next to Maduravoyil, Chennai   600 095, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Chennai",
         "category": "Engineering/Technical College",
@@ -13421,7 +13421,7 @@
     {
         "slno": 1492,
         "name": "RVS Padhmavathy College of Engineering & Technology, Gummidipoondi",
-        "address": "RVS Padhmavathy College of Engineering & Technology, No.13,Sethilpakkam Village, Peppamarikuppam PO, \r\nGummidipoondi, Thiruvallur 517588, Tamil Nadu",
+        "address": "RVS Padhmavathy College of Engineering & Technology, No.13,Sethilpakkam Village, Peppamarikuppam PO,  Gummidipoondi, Thiruvallur 517588, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Tiruvallur",
         "category": "Engineering/Technical College",
@@ -14546,7 +14546,7 @@
     {
         "slno": 1617,
         "name": "Srinivasan Engineering College, Thuraiyur Road",
-        "address": "Srinivasan Engineering College, Thuraiyur Road, Perambalur \u2013 621 212, Tamil Nadu",
+        "address": "Srinivasan Engineering College, Thuraiyur Road, Perambalur   621 212, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Perambalur",
         "category": "Engineering/Technical College",
@@ -15311,7 +15311,7 @@
     {
         "slno": 1702,
         "name": "Vishnu Lakshmi College of Engineering and Technology, Kanjikonampalayam",
-        "address": "Vishnu Lakshmi College of Engineering and Technology, 10/1, Kambar street, Kanjikonampalayam , Vellalore, Coimbatore \u2013 641 111, Tamil Nadu",
+        "address": "Vishnu Lakshmi College of Engineering and Technology, 10/1, Kambar street, Kanjikonampalayam , Vellalore, Coimbatore   641 111, Tamil Nadu",
         "university": "Anna University Chennai",
         "district": "Coimbatore",
         "category": "Engineering/Technical College",
@@ -17246,7 +17246,7 @@
     {
         "slno": 1917,
         "name": "Sri Sairam Siddha Medical College and Research Centre, West Tambaram",
-        "address": "Sri Sairam Siddha Medical College and Research Centre, Sai Leo Nagar, Poonthandalam, West Tambaram, Chennai \u2013 600 044, Tamil Nadu",
+        "address": "Sri Sairam Siddha Medical College and Research Centre, Sai Leo Nagar, Poonthandalam, West Tambaram, Chennai   600 044, Tamil Nadu",
         "university": "Dr MGR Medical University",
         "district": "Chennai",
         "category": "Siddha College",
@@ -18677,7 +18677,7 @@
     {
         "slno": 2076,
         "name": "Sri Sai Ram Polytechnic College, West Tambaram",
-        "address": "Sri Sai Ram Polytechnic College, Sai Leo Nagar, Poonthandalam West Tambaram, Chennai \u2013 600 044, Tamil Nadu",
+        "address": "Sri Sai Ram Polytechnic College, Sai Leo Nagar, Poonthandalam West Tambaram, Chennai   600 044, Tamil Nadu",
         "university": "DOTE, Tamil Nadu",
         "district": "Chennai",
         "category": "Polytechnic College",
@@ -19514,7 +19514,7 @@
     {
         "slno": 2169,
         "name": "Aditanar College of Arts and Science, Virapandianpatnam",
-        "address": "Aditanar College of Arts and Science, Virapandianpatnam \u2013 628216, Thoothukudi, Tamil Nadu",
+        "address": "Aditanar College of Arts and Science, Virapandianpatnam   628216, Thoothukudi, Tamil Nadu",
         "university": "Manonmaniam Sundaranar University",
         "district": "Thoothukudi",
         "category": "Arts/Science/Commerce College",
@@ -19550,7 +19550,7 @@
     {
         "slno": 2173,
         "name": "Alagappa University Evening College, Paramakudi",
-        "address": "Alagappa University Evening College, Madurai \u2013 Rameswaram Road Paramakudi \u2013 623 707 Ramanathapuram, Tamil Nadu",
+        "address": "Alagappa University Evening College, Madurai   Rameswaram Road Paramakudi   623 707 Ramanathapuram, Tamil Nadu",
         "university": "Alagappa University",
         "district": "Ramanathapuram",
         "category": "Arts/Science/Commerce College",
@@ -19856,7 +19856,7 @@
     {
         "slno": 2207,
         "name": "INPROX Institute of Professional Excellence, Thrissur",
-        "address": "INPROX Institute of Professional Excellence,3rd Floor, Marva Arcade, Machingal Lane, MG Road, Thrissur \u2013 680 001",
+        "address": "INPROX Institute of Professional Excellence,3rd Floor, Marva Arcade, Machingal Lane, MG Road, Thrissur   680 001",
         "university": "",
         "district": "Thrissur",
         "category": "Commerce Professional",
@@ -20566,8 +20566,8 @@
     },
     {
         "slno": 2286,
-        "name": "St.Teresa\u2019s Arts & Science College, Mala",
-        "address": "St.Teresa\u2019s Arts & Science College, Kottamury PO, Mala 680732, Thrissur, Kerala",
+        "name": "St.Teresa  s Arts & Science College, Mala",
+        "address": "St.Teresa  s Arts & Science College, Kottamury PO, Mala 680732, Thrissur, Kerala",
         "university": "Calicut University",
         "district": "Thrissur",
         "category": "Arts/Science/Commerce College",
@@ -20747,7 +20747,7 @@
     {
         "slno": 2306,
         "name": "De Paul Institute of Science and Technology (DiSAT Nilambur)",
-        "address": "De Paul Institute of Science and Technology (DiSAT Nilambur), De Paul Nagar, De Paul Nagar, Dippo \u2013 679 330, Malappuram",
+        "address": "De Paul Institute of Science and Technology (DiSAT Nilambur), De Paul Nagar, De Paul Nagar, Dippo   679 330, Malappuram",
         "university": "Calicut University",
         "district": "Malappuram",
         "category": "Arts/Science/Commerce College",
