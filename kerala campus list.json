@@ -13175,7 +13175,7 @@
         "type": "Aided",
         "location": "https://maps.app.goo.gl/9hzB3qM942dxpQ1r6",
         "th_campus": false,
-        "campus_name": "Government Polytechnic College, Kodumbu PO, Palakkad 678551, Kerala"
+        "campus_name": "Government Polytechnic College, Kodumbu PO, Palakkad "
     },
     {
         "slno": 1204,
@@ -13384,7 +13384,7 @@
         "type": "Unknown",
         "location": "https://maps.app.goo.gl/NoZwgC4wiu3zwFf1A",
         "th_campus": false,
-        "campus_name": "Government Polytechnic College, Nattakom P.O., Kottayam, 686013"
+        "campus_name": "Government Polytechnic College, Nattakom P.O., Kottayam, "
     },
     {
         "slno": 1223,
@@ -13395,7 +13395,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Central+Polytechnic,+Vattiyoorkavu+P.O,+Thiruvananthapuram,+695013",
         "th_campus": false,
-        "campus_name": "Central Polytechnic, Vattiyoorkavu P.O, Thiruvananthapuram, 695013"
+        "campus_name": "Central Polytechnic, Vattiyoorkavu P.O, Thiruvananthapuram, "
     },
     {
         "slno": 1224,
@@ -13406,7 +13406,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Maharaja's+Technological+Institute,+Chembukavu,+Thrissur+680020",
         "th_campus": false,
-        "campus_name": "Maharaja's Technological Institute, Chembukavu, Thrissur 680020"
+        "campus_name": "Maharaja's Technological Institute, Chembukavu, Thrissur "
     },
     {
         "slno": 1225,
@@ -13428,7 +13428,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Carmel+Polytechnic,+Punnapra+P.O.,+Alappuzha,+688004",
         "th_campus": false,
-        "campus_name": "Carmel Polytechnic, Punnapra P.O., Alappuzha, 688004"
+        "campus_name": "Carmel Polytechnic, Punnapra P.O., Alappuzha, "
     },
     {
         "slno": 1227,
@@ -13439,7 +13439,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Angadippuram,+Perinthalmanna,+679321",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Angadippuram, Perinthalmanna, 679321"
+        "campus_name": "Government Polytechnic, Angadippuram, Perinthalmanna, "
     },
     {
         "slno": 1228,
@@ -13450,7 +13450,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Attingal,+695101",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Attingal, 695101"
+        "campus_name": "Government Polytechnic, Attingal"
     },
     {
         "slno": 1229,
@@ -13472,7 +13472,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Kalamassery,+683104",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Kalamassery, 683104"
+        "campus_name": "Government Polytechnic, Kalamassery"
     },
     {
         "slno": 1231,
@@ -13498,14 +13498,14 @@
     },
     {
         "slno": 1233,
-        "address": "Government Polytechnic, Kothamangalam, Chelad P.O., 686681, Ernakulam",
+        "address": "Government Polytechnic, Kothamangalam, Chelad P.O., Ernakulam",
         "university": "Unknown",
         "district": "Ernakulam",
         "category": "Polytechnic College",
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Kothamangalam,+Chelad+P.O.,+686681,+Ernakulam",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Kothamangalam, Chelad P.O., 686681, Ernakulam"
+        "campus_name": "Government Polytechnic, Kothamangalam, Chelad P.O., Ernakulam"
     },
     {
         "slno": 1234,
@@ -13527,7 +13527,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Kunnamkulam,+Kizhoor+P.O.,+Trichur,+680523",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Kunnamkulam, Kizhoor P.O., Trichur, 680523"
+        "campus_name": "Government Polytechnic, Kunnamkulam, Kizhoor P.O., Trichur"
     },
     {
         "slno": 1236,
@@ -13538,7 +13538,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic+College,+Karuvambram+P.O,+Manjeri,+Kerala+676517",
         "th_campus": false,
-        "campus_name": "Government Polytechnic College, Karuvambram P.O, Manjeri, Kerala 676517"
+        "campus_name": "Government Polytechnic College, Karuvambram P.O, Manjeri, Kerala"
     },
     {
         "slno": 1237,
@@ -13549,7 +13549,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Manakala+P.O.,+Adoor,+Pathanamthitta,+691523",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Manakala P.O., Adoor, Pathanamthitta, 691523"
+        "campus_name": "Government Polytechnic, Manakala P.O., Adoor, Pathanamthitta"
     },
     {
         "slno": 1238,
@@ -13560,7 +13560,7 @@
         "type": "Unknown",
         "location": "https://maps.app.goo.gl/Nyrj7jRRKa4FWPjs7",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Marothrvattom P.O., Cherthala, Alappuzha, 688545"
+        "campus_name": "Government Polytechnic, Marothrvattom P.O., Cherthala, Alappuzha"
     },
     {
         "slno": 1239,
@@ -13571,7 +13571,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Mattannur,+Kannur,+670+702",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Mattannur, Kannur, 670 702"
+        "campus_name": "Government Polytechnic, Mattannur, Kannur"
     },
     {
         "slno": 1240,
@@ -13582,7 +13582,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Meppadi,+Wayanad,+673577",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Meppadi, Wayanad, 673577"
+        "campus_name": "Government Polytechnic, Meppadi, Wayanad"
     },
     {
         "slno": 1241,
@@ -13593,7 +13593,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Meenangadi,+Wayanad,+673591",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Meenangadi, Wayanad, 673591"
+        "campus_name": "Government Polytechnic, Meenangadi, Wayanad"
     },
     {
         "slno": 1242,
@@ -13604,7 +13604,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Muttom+P.O.,+Thodupuzha,+Idukki,+685587",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Muttom P.O., Thodupuzha, Idukki, 685587"
+        "campus_name": "Government Polytechnic, Muttom P.O., Thodupuzha, Idukki"
     },
     {
         "slno": 1243,
@@ -13637,7 +13637,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+P.O.+Periye,+Kasaragod,+671316",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, P.O. Periye, Kasaragod, 671316"
+        "campus_name": "Government Polytechnic, P.O. Periye, Kasaragod"
     },
     {
         "slno": 1246,
@@ -13648,7 +13648,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic+College,+Pala,+Kottayam+Dist.,+686575",
         "th_campus": false,
-        "campus_name": "Government Polytechnic College, Pala, Kottayam Dist., 686575"
+        "campus_name": "Government Polytechnic College, Pala, Kottayam"
     },
     {
         "slno": 1247,
@@ -13681,7 +13681,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Purappuzha+P.O.,+Thodupuzha,+Idukki,+685583",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Purappuzha P.O., Thodupuzha, Idukki, 685583"
+        "campus_name": "Government Polytechnic, Purappuzha P.O., Thodupuzha, Idukki"
     },
     {
         "slno": 1250,
@@ -13714,7 +13714,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic,+Vennikulam,+Pathanamthitta,+589544",
         "th_campus": false,
-        "campus_name": "Government Polytechnic, Vennikulam, Pathanamthitta, 589544"
+        "campus_name": "Government Polytechnic, Vennikulam, Pathanamthitta"
     },
     {
         "slno": 1253,
@@ -13736,7 +13736,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Government+Polytechnic+College,+Thirurangadi,+Velimukku+P.O.,+Malappuram,+676317",
         "th_campus": false,
-        "campus_name": "Government Polytechnic College, Thirurangadi, Velimukku P.O., Malappuram, 676317"
+        "campus_name": "Government Polytechnic College, Thirurangadi, Velimukku P.O., Malappuram"
     },
     {
         "slno": 1255,
@@ -13769,7 +13769,7 @@
         "type": "Unknown",
         "location": "https://maps.app.goo.gl/8WWQy9eMSeu8SYCc6",
         "th_campus": false,
-        "campus_name": "Institute of Printing Technology & Government Polytechnic College, Kulappully, Shoranur, 679122, Palakkad"
+        "campus_name": "Institute of Printing Technology & Government Polytechnic College, Kulappully, Shoranur, Palakkad"
     },
     {
         "slno": 1258,
@@ -13780,7 +13780,7 @@
         "type": "Unknown",
         "location": "https://maps.app.goo.gl/PwDupuRZkRsJoEbN6",
         "th_campus": false,
-        "campus_name": "J.D.T Islam Polytechnic, P.B. No. 1702, Marikkunnu, Kozhikode, 673012"
+        "campus_name": "J.D.T Islam Polytechnic, P.B. No. 1702, Marikkunnu, Kozhikode"
     },
     {
         "slno": 1259,
@@ -13791,7 +13791,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=KELTRON+TOOLROOM+RESEARCH+AND+TRAINING+CENTRE,+Keltron+complex,+Keltron+road,+Aroor,+Alappuzha-688534",
         "th_campus": false,
-        "campus_name": "KELTRON TOOLROOM RESEARCH AND TRAINING CENTRE, Keltron complex, Keltron road, Aroor, Alappuzha-688534"
+        "campus_name": "KELTRON TOOLROOM RESEARCH AND TRAINING CENTRE, Keltron complex, Keltron road, Aroor, Alappuzha"
     },
     {
         "slno": 1260,
@@ -13824,7 +13824,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Model+Polytechnic,+Kallettumkara+P.O.,+Thrissur,+680683",
         "th_campus": false,
-        "campus_name": "Model Polytechnic, Kallettumkara P.O., Thrissur, 680683"
+        "campus_name": "Model Polytechnic, Kallettumkara P.O., Thrissur"
     },
     {
         "slno": 1263,
@@ -13835,7 +13835,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Model+Polytechnic,+Mattakkara,+P.O+Kottayam,+686564",
         "th_campus": false,
-        "campus_name": "Model Polytechnic, Mattakkara, P.O Kottayam, 686564"
+        "campus_name": "Model Polytechnic, Mattakkara, P.O Kottayam"
     },
     {
         "slno": 1264,
@@ -13846,7 +13846,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Model+Polytechnic,+Nut+Street,+Vatakara,+673104,+Kozhikode",
         "th_campus": false,
-        "campus_name": "Model Polytechnic, Nut Street, Vatakara, 673104, Kozhikode"
+        "campus_name": "Model Polytechnic, Nut Street, Vatakara, Kozhikode"
     },
     {
         "slno": 1265,
@@ -13868,7 +13868,7 @@
         "type": "Unknown",
         "location": "https://maps.app.goo.gl/XNYFibkwN3q6zu6w8",
         "th_campus": false,
-        "campus_name": "N.S.S. Polytechnic, Mannamnagar P.O., Pandalam, 689501"
+        "campus_name": "N.S.S. Polytechnic, Mannamnagar P.O., Pandalam"
     },
     {
         "slno": 1267,
@@ -13879,7 +13879,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Residential+Women's+Polytechnic,+Payyanur,+Kannur,+670307",
         "th_campus": false,
-        "campus_name": "Residential Women's Polytechnic, Payyanur, Kannur, 670307"
+        "campus_name": "Residential Women's Polytechnic, Payyanur, Kannur"
     },
     {
         "slno": 1268,
@@ -13890,7 +13890,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=S.N.Polytechnic,+Kanhangad,+Kasaragod,+671315",
         "th_campus": false,
-        "campus_name": "S.N.Polytechnic, Kanhangad, Kasaragod, 671315"
+        "campus_name": "S.N.Polytechnic, Kanhangad, Kasaragod"
     },
     {
         "slno": 1269,
@@ -13901,7 +13901,7 @@
         "type": "Unknown",
         "location": "https://maps.app.goo.gl/pmeUxTYYpLpmBeeq6",
         "th_campus": true,
-        "campus_name": "Seethi Sahib Memorial Polytechnic, P.B. No.1, P.O Thekkummuri, Tirur, 676105"
+        "campus_name": "Seethi Sahib Memorial Polytechnic, P.B. No.1, P.O Thekkummuri, Tirur"
     },
     {
         "slno": 1270,
@@ -13912,7 +13912,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=S.N.Polytechnic,+Kottiyam,+Kollam,+691+571",
         "th_campus": false,
-        "campus_name": "S.N.Polytechnic, Kottiyam, Kollam, 691 571"
+        "campus_name": "S.N.Polytechnic, Kottiyam, Kollam"
     },
     {
         "slno": 1271,
@@ -13923,7 +13923,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Sree+Rama+Polytechnic,+Valapad,+Thrissur,+680567",
         "th_campus": false,
-        "campus_name": "Sree Rama Polytechnic, Valapad, Thrissur, 680567"
+        "campus_name": "Sree Rama Polytechnic, Valapad, Thrissur"
     },
     {
         "slno": 1272,
@@ -13945,7 +13945,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Thiagarajar+Polytechnic+College,+Alagappanagar+P.O.,+680302,+Thrissur",
         "th_campus": false,
-        "campus_name": "Thiagarajar Polytechnic College, Alagappanagar P.O., 680302, Thrissur"
+        "campus_name": "Thiagarajar Polytechnic College, Alagappanagar P.O., Thrissur"
     },
     {
         "slno": 1274,
@@ -13989,7 +13989,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Women's+Polytechnic,+Kozhikode,+673009",
         "th_campus": false,
-        "campus_name": "Women's Polytechnic, Kozhikode, 673009"
+        "campus_name": "Women's Polytechnic, Kozhikode"
     },
     {
         "slno": 1278,
@@ -14000,7 +14000,7 @@
         "type": "Unknown",
         "location": "https://www.google.com/maps/search/?api=1&query=Women's+Polytechnic,+Nedupuzha+P.O.,+Thrissur,+680015",
         "th_campus": false,
-        "campus_name": "Women's Polytechnic, Nedupuzha P.O., Thrissur, 680015"
+        "campus_name": "Women's Polytechnic, Nedupuzha P.O., Thrissur"
     },
     {
         "slno": 1279,
