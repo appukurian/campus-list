@@ -14089,5 +14089,38 @@
         "location": "https://maps.app.goo.gl/DZ2zMuBomFzP31RQ6",
         "th_campus": true,
         "campus_name": "Department of Computer Science, CUSAT, Kochi"
+    },
+    {
+        "slno": 1282,
+        "name": "Amrita Vishwa Vidyapeetham, Ernakulam",
+        "address": "North, PO, Brahmasthanam, Edappally, Kochi, Ernakulam, Kerala 682024",
+        "university": "Deemed university",
+        "district": "Ernakulam",
+        "category": "Arts/Science/Commerce College",
+        "type": "unaided",
+        "location": "https://maps.app.goo.gl/PMCQKmPMSfUW7qDn8",
+        "th_campus": false
+    },
+    {
+        "slno": 1283,
+        "name": "Amrita Vishwa Vidyapeetham, Amritapuri",
+        "address": "Vallikavu PO, Amritapuri, Clappana, Kerala 690525",
+        "university": "Deemed university",
+        "district": "Kollam",
+        "category": "Engineering College",
+        "type": "unaided",
+        "location": "https://maps.app.goo.gl/g971muF41Re5ho128",
+        "th_campus": true
+    },
+    {
+        "slno": 1284,
+        "name": "St. Josephs College Devagiri (Autonomous)",
+        "address": "Medical College P O, Kozhikode,Kerala,India 673008",
+        "university": "Unknown",
+        "district": "Kozhikode",
+        "category": "Arts/Science/Commerce College",
+        "type": "Unknown",
+        "location": "https://maps.app.goo.gl/yvBmQrAyCb4mCbT99",
+        "th_campus": false
     }
 ]
