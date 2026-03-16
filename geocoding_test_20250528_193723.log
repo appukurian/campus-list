@@ -1,0 +1,19 @@
+2025-05-28 19:37:23,758 - INFO - 🚀 Starting geocoding test session - Log: geocoding_test_20250528_193723.log
+2025-05-28 19:37:23,759 - INFO - ✅ Loaded 6 sample records from test data.json
+2025-05-28 19:37:23,759 - INFO - 📋 Sample record structure:
+2025-05-28 19:37:23,760 - INFO -   Address: Sri. C. Achutha Menon Government College, Kuttanellur, thrissur
+2025-05-28 19:37:23,760 - INFO -   Map URL: https://www.google.com/maps/search/?api=1&query=Sri.%20C.%20Achutha%20Menon%20Government%20College%2C%20Kuttanellur%2C%20thrissur
+2025-05-28 19:37:23,760 - INFO -   Created At: Apr 11, 2024, 6:27 PM
+2025-05-28 19:37:23,760 - INFO -   Manager ID: None
+2025-05-28 19:37:23,760 - INFO -   District: thrissur
+2025-05-28 19:37:23,760 - INFO -   Updated At: Apr 11, 2024, 6:27 PM
+2025-05-28 19:37:23,760 - INFO -   Alias: 
+2025-05-28 19:37:23,760 - INFO -   Org ID: 1
+2025-05-28 19:37:23,760 - INFO -   Website: 
+2025-05-28 19:37:23,760 - INFO -   ID: 1634
+2025-05-28 19:37:23,760 - INFO -   Description: 
+2025-05-28 19:37:23,760 - INFO -   State: unknown
+2025-05-28 19:37:23,760 - INFO -   Name: Sri. C. Achutha Menon Government College, Kuttanellur
+2025-05-28 19:37:23,761 - INFO -   Instagram: 
+2025-05-28 19:37:23,761 - INFO -   Avatar: 
+2025-05-28 19:37:23,761 - INFO -   Linkedin: 

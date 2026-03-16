@@ -1,0 +1,1007 @@
+{
+  "test_metadata": {
+    "original_file": "test data.json",
+    "test_timestamp": "2025-05-28T19:37:45.367864",
+    "total_tested": 6
+  },
+  "summary_stats": {
+    "total_tested": 6,
+    "successful": 6,
+    "high_confidence": 0,
+    "medium_confidence": 0,
+    "low_confidence": 6,
+    "invalid": 0,
+    "wrong_district": 6,
+    "outside_kerala": 0
+  },
+  "detailed_results": [
+    {
+      "campus": {
+        "Address": "Sri. C. Achutha Menon Government College, Kuttanellur, thrissur",
+        "Map URL": "https://www.google.com/maps/search/?api=1&query=Sri.%20C.%20Achutha%20Menon%20Government%20College%2C%20Kuttanellur%2C%20thrissur",
+        "Created At": "Apr 11, 2024, 6:27 PM",
+        "Manager ID": null,
+        "District": "thrissur",
+        "Updated At": "Apr 11, 2024, 6:27 PM",
+        "Alias": "",
+        "Org ID": "1",
+        "Website": "",
+        "ID": "1634",
+        "Description": "",
+        "State": "unknown",
+        "Name": "Sri. C. Achutha Menon Government College, Kuttanellur",
+        "Instagram": "",
+        "Avatar": "",
+        "Linkedin": ""
+      },
+      "strategies_tested": [
+        {
+          "query": "Sri. C. Achutha Menon Government College, Kuttanellur, thrissur, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        {
+          "query": "Sri. C. Achutha Menon Government College, Kuttanellur, thrissur, Kerala, India",
+          "name": "Name + District",
+          "description": "Using institution name with district"
+        },
+        {
+          "query": "Sri. C. Achutha Menon , Kuttanellur, thrissur, Kerala, India",
+          "name": "Simplified Name",
+          "description": "Using simplified institution name"
+        },
+        {
+          "query": "Sri. C. Menon Government College, Kuttanellur, thrissur, thrissur, Kerala, India",
+          "name": "Address Without Name",
+          "description": "Using address with institution name removed"
+        }
+      ],
+      "results": [
+        {
+          "strategy": {
+            "query": "Sri. C. Achutha Menon Government College, Kuttanellur, thrissur, thrissur, Kerala, India",
+            "name": "Address Only",
+            "description": "Using cleaned address without institution name"
+          },
+          "coordinates": [
+            76.2544553,
+            10.5003455
+          ],
+          "formatted_address": "G723+4QP, Hill Gardens Housing Colony, Kuttanellur, Thrissur, Kerala 680014, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Sri. C. Achutha Menon Government College, Kuttanellur, thrissur, Kerala, India",
+            "name": "Name + District",
+            "description": "Using institution name with district"
+          },
+          "coordinates": [
+            76.2544553,
+            10.5003455
+          ],
+          "formatted_address": "G723+4QP, Hill Gardens Housing Colony, Kuttanellur, Thrissur, Kerala 680014, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Sri. C. Achutha Menon , Kuttanellur, thrissur, Kerala, India",
+            "name": "Simplified Name",
+            "description": "Using simplified institution name"
+          },
+          "coordinates": [
+            76.2544553,
+            10.5003455
+          ],
+          "formatted_address": "G723+4QP, Hill Gardens Housing Colony, Kuttanellur, Thrissur, Kerala 680014, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Sri. C. Menon Government College, Kuttanellur, thrissur, thrissur, Kerala, India",
+            "name": "Address Without Name",
+            "description": "Using address with institution name removed"
+          },
+          "coordinates": [
+            76.2544553,
+            10.5003455
+          ],
+          "formatted_address": "G723+4QP, Hill Gardens Housing Colony, Kuttanellur, Thrissur, Kerala 680014, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        }
+      ],
+      "best_result": {
+        "strategy": {
+          "query": "Sri. C. Achutha Menon Government College, Kuttanellur, thrissur, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        "coordinates": [
+          76.2544553,
+          10.5003455
+        ],
+        "formatted_address": "G723+4QP, Hill Gardens Housing Colony, Kuttanellur, Thrissur, Kerala 680014, India",
+        "validation": {
+          "is_valid": true,
+          "confidence": "LOW",
+          "in_kerala": true,
+          "in_expected_district": false,
+          "actual_district": "palakkad",
+          "distance_from_expected": null,
+          "warnings": [
+            "Expected thrissur, found in palakkad"
+          ]
+        }
+      },
+      "timestamp": "2025-05-28T19:37:27.231553"
+    },
+    {
+      "campus": {
+        "Address": "Panampilly Memorial Government College, Chalakkudy, Potta  PO, thrissur-680 307",
+        "Map URL": "https://maps.app.goo.gl/f7xVWC3je9eyG2vC9",
+        "Created At": "Apr 11, 2024, 6:27 PM",
+        "Manager ID": null,
+        "District": "thrissur",
+        "Updated At": "Apr 11, 2024, 6:27 PM",
+        "Alias": "",
+        "Org ID": "1",
+        "Website": "",
+        "ID": "1635",
+        "Description": "",
+        "State": "unknown",
+        "Name": "Panampilly Memorial Government College, Chalakkudy",
+        "Instagram": "",
+        "Avatar": "",
+        "Linkedin": ""
+      },
+      "strategies_tested": [
+        {
+          "query": "Panampilly Memorial Government College, Chalakkudy, Potta PO, thrissur-680 307, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        {
+          "query": "Panampilly Memorial Government College, Chalakkudy, Potta  PO, thrissur-680 307, thrissur, Kerala, India",
+          "name": "Original Address",
+          "description": "Using original address as provided"
+        },
+        {
+          "query": "Panampilly Memorial Government College, Chalakkudy, thrissur, Kerala, India",
+          "name": "Name + District",
+          "description": "Using institution name with district"
+        },
+        {
+          "query": "Panampilly Memorial , Chalakkudy, thrissur, Kerala, India",
+          "name": "Simplified Name",
+          "description": "Using simplified institution name"
+        },
+        {
+          "query": "College, Chalakkudy, Potta PO, thrissur-680 307, thrissur, Kerala, India",
+          "name": "Address Without Name",
+          "description": "Using address with institution name removed"
+        }
+      ],
+      "results": [
+        {
+          "strategy": {
+            "query": "Panampilly Memorial Government College, Chalakkudy, Potta PO, thrissur-680 307, thrissur, Kerala, India",
+            "name": "Address Only",
+            "description": "Using cleaned address without institution name"
+          },
+          "coordinates": [
+            76.33469459999999,
+            10.3365773
+          ],
+          "formatted_address": "PO Potta, Chalakudy, 88JR+QMV, Potta - Elanjipra Rd, Thrissur, Potta, Kerala 680722, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "idukki",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in idukki"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Panampilly Memorial Government College, Chalakkudy, Potta  PO, thrissur-680 307, thrissur, Kerala, India",
+            "name": "Original Address",
+            "description": "Using original address as provided"
+          },
+          "coordinates": [
+            76.33469459999999,
+            10.3365773
+          ],
+          "formatted_address": "PO Potta, Chalakudy, 88JR+QMV, Potta - Elanjipra Rd, Thrissur, Potta, Kerala 680722, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "idukki",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in idukki"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Panampilly Memorial Government College, Chalakkudy, thrissur, Kerala, India",
+            "name": "Name + District",
+            "description": "Using institution name with district"
+          },
+          "coordinates": [
+            76.33469459999999,
+            10.3365773
+          ],
+          "formatted_address": "PO Potta, Chalakudy, 88JR+QMV, Potta - Elanjipra Rd, Thrissur, Potta, Kerala 680722, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "idukki",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in idukki"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Panampilly Memorial , Chalakkudy, thrissur, Kerala, India",
+            "name": "Simplified Name",
+            "description": "Using simplified institution name"
+          },
+          "coordinates": [
+            76.33469459999999,
+            10.3365773
+          ],
+          "formatted_address": "PO Potta, Chalakudy, 88JR+QMV, Potta - Elanjipra Rd, Thrissur, Potta, Kerala 680722, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "idukki",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in idukki"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "College, Chalakkudy, Potta PO, thrissur-680 307, thrissur, Kerala, India",
+            "name": "Address Without Name",
+            "description": "Using address with institution name removed"
+          },
+          "coordinates": [
+            76.323397,
+            10.3298675
+          ],
+          "formatted_address": "Chalakudy, Potta, Kerala 680722, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "idukki",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in idukki"
+            ]
+          }
+        }
+      ],
+      "best_result": {
+        "strategy": {
+          "query": "Panampilly Memorial Government College, Chalakkudy, Potta PO, thrissur-680 307, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        "coordinates": [
+          76.33469459999999,
+          10.3365773
+        ],
+        "formatted_address": "PO Potta, Chalakudy, 88JR+QMV, Potta - Elanjipra Rd, Thrissur, Potta, Kerala 680722, India",
+        "validation": {
+          "is_valid": true,
+          "confidence": "LOW",
+          "in_kerala": true,
+          "in_expected_district": false,
+          "actual_district": "idukki",
+          "distance_from_expected": null,
+          "warnings": [
+            "Expected thrissur, found in idukki"
+          ]
+        }
+      },
+      "timestamp": "2025-05-28T19:37:31.874545"
+    },
+    {
+      "campus": {
+        "Address": "KKTM Government College, Pullut, thrissur-680 663",
+        "Map URL": "https://www.google.com/maps/search/?api=1&query=KKTM%20Government%20College%2C%20Pullut%2C%20thrissur-680%20663",
+        "Created At": "Apr 11, 2024, 6:27 PM",
+        "Manager ID": null,
+        "District": "thrissur",
+        "Updated At": "Apr 11, 2024, 6:27 PM",
+        "Alias": "",
+        "Org ID": "1",
+        "Website": "",
+        "ID": "1636",
+        "Description": "",
+        "State": "unknown",
+        "Name": "KKTM Government College, Pullut",
+        "Instagram": "",
+        "Avatar": "",
+        "Linkedin": ""
+      },
+      "strategies_tested": [
+        {
+          "query": "KKTM Government College, Pullut, thrissur-680 663, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        {
+          "query": "KKTM Government College, Pullut, thrissur, Kerala, India",
+          "name": "Name + District",
+          "description": "Using institution name with district"
+        },
+        {
+          "query": "KKTM , Pullut, thrissur, Kerala, India",
+          "name": "Simplified Name",
+          "description": "Using simplified institution name"
+        },
+        {
+          "query": "College, Pullut, thrissur-680 663, thrissur, Kerala, India",
+          "name": "Address Without Name",
+          "description": "Using address with institution name removed"
+        }
+      ],
+      "results": [
+        {
+          "strategy": {
+            "query": "KKTM Government College, Pullut, thrissur-680 663, thrissur, Kerala, India",
+            "name": "Address Only",
+            "description": "Using cleaned address without institution name"
+          },
+          "coordinates": [
+            76.21278939999999,
+            10.2392002
+          ],
+          "formatted_address": "K.K.T.M Govt. College, Pullut P.O, Kodungallur, Trichur, Kerala 680663, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "ernakulam",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in ernakulam"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "KKTM Government College, Pullut, thrissur, Kerala, India",
+            "name": "Name + District",
+            "description": "Using institution name with district"
+          },
+          "coordinates": [
+            76.21278939999999,
+            10.2392002
+          ],
+          "formatted_address": "K.K.T.M Govt. College, Pullut P.O, Kodungallur, Trichur, Kerala 680663, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "ernakulam",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in ernakulam"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "KKTM , Pullut, thrissur, Kerala, India",
+            "name": "Simplified Name",
+            "description": "Using simplified institution name"
+          },
+          "coordinates": [
+            76.21278939999999,
+            10.2392002
+          ],
+          "formatted_address": "K.K.T.M Govt. College, Pullut P.O, Kodungallur, Trichur, Kerala 680663, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "ernakulam",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in ernakulam"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "College, Pullut, thrissur-680 663, thrissur, Kerala, India",
+            "name": "Address Without Name",
+            "description": "Using address with institution name removed"
+          },
+          "coordinates": [
+            76.2120649,
+            10.5241176
+          ],
+          "formatted_address": "Thrissur, Kerala, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        }
+      ],
+      "best_result": {
+        "strategy": {
+          "query": "KKTM Government College, Pullut, thrissur-680 663, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        "coordinates": [
+          76.21278939999999,
+          10.2392002
+        ],
+        "formatted_address": "K.K.T.M Govt. College, Pullut P.O, Kodungallur, Trichur, Kerala 680663, India",
+        "validation": {
+          "is_valid": true,
+          "confidence": "LOW",
+          "in_kerala": true,
+          "in_expected_district": false,
+          "actual_district": "ernakulam",
+          "distance_from_expected": null,
+          "warnings": [
+            "Expected thrissur, found in ernakulam"
+          ]
+        }
+      },
+      "timestamp": "2025-05-28T19:37:35.206736"
+    },
+    {
+      "campus": {
+        "Address": "Vimala College, thrissur-680 009",
+        "Map URL": "https://www.google.com/maps/search/?api=1&query=Vimala%20College%2C%20thrissur-680%20009",
+        "Created At": "Apr 11, 2024, 6:27 PM",
+        "Manager ID": null,
+        "District": "thrissur",
+        "Updated At": "Apr 11, 2024, 6:27 PM",
+        "Alias": "",
+        "Org ID": "1",
+        "Website": "",
+        "ID": "1637",
+        "Description": "",
+        "State": "unknown",
+        "Name": "Vimala College, Thrissur",
+        "Instagram": "",
+        "Avatar": "",
+        "Linkedin": ""
+      },
+      "strategies_tested": [
+        {
+          "query": "Vimala College, thrissur-680 009, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        {
+          "query": "Vimala College, Thrissur, thrissur, Kerala, India",
+          "name": "Name + District",
+          "description": "Using institution name with district"
+        },
+        {
+          "query": "Vimala , Thrissur, thrissur, Kerala, India",
+          "name": "Simplified Name",
+          "description": "Using simplified institution name"
+        },
+        {
+          "query": "College, -680 009, thrissur, Kerala, India",
+          "name": "Address Without Name",
+          "description": "Using address with institution name removed"
+        }
+      ],
+      "results": [
+        {
+          "strategy": {
+            "query": "Vimala College, thrissur-680 009, thrissur, Kerala, India",
+            "name": "Address Only",
+            "description": "Using cleaned address without institution name"
+          },
+          "coordinates": [
+            76.22687460000002,
+            10.5531058
+          ],
+          "formatted_address": "H63G+6PX, gec, Mannumkad, Ramavarmapuram, Thrissur, Kerala 680009, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Vimala College, Thrissur, thrissur, Kerala, India",
+            "name": "Name + District",
+            "description": "Using institution name with district"
+          },
+          "coordinates": [
+            76.22687460000002,
+            10.5531058
+          ],
+          "formatted_address": "H63G+6PX, gec, Mannumkad, Ramavarmapuram, Thrissur, Kerala 680009, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Vimala , Thrissur, thrissur, Kerala, India",
+            "name": "Simplified Name",
+            "description": "Using simplified institution name"
+          },
+          "coordinates": [
+            76.22687460000002,
+            10.5531058
+          ],
+          "formatted_address": "H63G+6PX, gec, Mannumkad, Ramavarmapuram, Thrissur, Kerala 680009, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "College, -680 009, thrissur, Kerala, India",
+            "name": "Address Without Name",
+            "description": "Using address with institution name removed"
+          },
+          "coordinates": [
+            76.2120649,
+            10.5241176
+          ],
+          "formatted_address": "Thrissur, Kerala, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        }
+      ],
+      "best_result": {
+        "strategy": {
+          "query": "Vimala College, thrissur-680 009, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        "coordinates": [
+          76.22687460000002,
+          10.5531058
+        ],
+        "formatted_address": "H63G+6PX, gec, Mannumkad, Ramavarmapuram, Thrissur, Kerala 680009, India",
+        "validation": {
+          "is_valid": true,
+          "confidence": "LOW",
+          "in_kerala": true,
+          "in_expected_district": false,
+          "actual_district": "palakkad",
+          "distance_from_expected": null,
+          "warnings": [
+            "Expected thrissur, found in palakkad"
+          ]
+        }
+      },
+      "timestamp": "2025-05-28T19:37:38.561237"
+    },
+    {
+      "campus": {
+        "Address": "Sree Krishna College, Guruvayur, Ariyannur PO, thrissur-680 102",
+        "Map URL": "https://maps.app.goo.gl/ZT8j9QbfdFwiDcRr6",
+        "Created At": "Apr 11, 2024, 6:27 PM",
+        "Manager ID": null,
+        "District": "thrissur",
+        "Updated At": "Apr 11, 2024, 6:27 PM",
+        "Alias": "",
+        "Org ID": "1",
+        "Website": "",
+        "ID": "1639",
+        "Description": "",
+        "State": "unknown",
+        "Name": "Sree Krishna College, Guruvayoor",
+        "Instagram": "",
+        "Avatar": "",
+        "Linkedin": ""
+      },
+      "strategies_tested": [
+        {
+          "query": "Sree Krishna College, Guruvayur, Ariyannur PO, thrissur-680 102, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        {
+          "query": "Sree Krishna College, Guruvayoor, thrissur, Kerala, India",
+          "name": "Name + District",
+          "description": "Using institution name with district"
+        },
+        {
+          "query": "Sree Krishna , Guruvayoor, thrissur, Kerala, India",
+          "name": "Simplified Name",
+          "description": "Using simplified institution name"
+        },
+        {
+          "query": "College, Guruvayur, Ariyannur PO, thrissur-680 102, thrissur, Kerala, India",
+          "name": "Address Without Name",
+          "description": "Using address with institution name removed"
+        }
+      ],
+      "results": [
+        {
+          "strategy": {
+            "query": "Sree Krishna College, Guruvayur, Ariyannur PO, thrissur-680 102, thrissur, Kerala, India",
+            "name": "Address Only",
+            "description": "Using cleaned address without institution name"
+          },
+          "coordinates": [
+            76.0883769,
+            10.6073898
+          ],
+          "formatted_address": "Choondal Mattom Rd, Koonammoochi, Alur, Kerala 680602, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Sree Krishna College, Guruvayoor, thrissur, Kerala, India",
+            "name": "Name + District",
+            "description": "Using institution name with district"
+          },
+          "coordinates": [
+            76.0883769,
+            10.6073898
+          ],
+          "formatted_address": "Choondal Mattom Rd, Koonammoochi, Alur, Kerala 680602, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "Sree Krishna , Guruvayoor, thrissur, Kerala, India",
+            "name": "Simplified Name",
+            "description": "Using simplified institution name"
+          },
+          "coordinates": [
+            76.04618339999999,
+            10.594788
+          ],
+          "formatted_address": "East Nada, Guruvayur, Kerala 680101, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "College, Guruvayur, Ariyannur PO, thrissur-680 102, thrissur, Kerala, India",
+            "name": "Address Without Name",
+            "description": "Using address with institution name removed"
+          },
+          "coordinates": [
+            76.0812507,
+            10.6039603
+          ],
+          "formatted_address": "Ariyannur, Alur, Kerala, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        }
+      ],
+      "best_result": {
+        "strategy": {
+          "query": "Sree Krishna College, Guruvayur, Ariyannur PO, thrissur-680 102, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        "coordinates": [
+          76.0883769,
+          10.6073898
+        ],
+        "formatted_address": "Choondal Mattom Rd, Koonammoochi, Alur, Kerala 680602, India",
+        "validation": {
+          "is_valid": true,
+          "confidence": "LOW",
+          "in_kerala": true,
+          "in_expected_district": false,
+          "actual_district": "palakkad",
+          "distance_from_expected": null,
+          "warnings": [
+            "Expected thrissur, found in palakkad"
+          ]
+        }
+      },
+      "timestamp": "2025-05-28T19:37:41.990669"
+    },
+    {
+      "campus": {
+        "Address": "St. Joseph's College, Irinjalakuda, thrissur-680 121",
+        "Map URL": "https://www.google.com/maps/search/?api=1&query=St.%20Joseph%27s%20College%2C%20Irinjalakuda%2C%20thrissur-680%20121",
+        "Created At": "Apr 11, 2024, 6:27 PM",
+        "Manager ID": null,
+        "District": "thrissur",
+        "Updated At": "Apr 11, 2024, 6:27 PM",
+        "Alias": "",
+        "Org ID": "1",
+        "Website": "",
+        "ID": "1640",
+        "Description": "",
+        "State": "unknown",
+        "Name": "St. Joseph College, Irinjalakuda",
+        "Instagram": "",
+        "Avatar": "",
+        "Linkedin": ""
+      },
+      "strategies_tested": [
+        {
+          "query": "St. Joseph's College, Irinjalakuda, thrissur-680 121, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        {
+          "query": "St. Joseph College, Irinjalakuda, thrissur, Kerala, India",
+          "name": "Name + District",
+          "description": "Using institution name with district"
+        },
+        {
+          "query": "St. Joseph , Irinjalakuda, thrissur, Kerala, India",
+          "name": "Simplified Name",
+          "description": "Using simplified institution name"
+        },
+        {
+          "query": "St. 's College, Irinjalakuda, thrissur-680 121, thrissur, Kerala, India",
+          "name": "Address Without Name",
+          "description": "Using address with institution name removed"
+        }
+      ],
+      "results": [
+        {
+          "strategy": {
+            "query": "St. Joseph's College, Irinjalakuda, thrissur-680 121, thrissur, Kerala, India",
+            "name": "Address Only",
+            "description": "Using cleaned address without institution name"
+          },
+          "coordinates": [
+            76.2148015,
+            10.3399489
+          ],
+          "formatted_address": "86Q7+XWF, Kodungallur - Shornur Rd, Irinjalakuda, Kerala 680661, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "St. Joseph College, Irinjalakuda, thrissur, Kerala, India",
+            "name": "Name + District",
+            "description": "Using institution name with district"
+          },
+          "coordinates": [
+            76.2148015,
+            10.3399489
+          ],
+          "formatted_address": "86Q7+XWF, Kodungallur - Shornur Rd, Irinjalakuda, Kerala 680661, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "St. Joseph , Irinjalakuda, thrissur, Kerala, India",
+            "name": "Simplified Name",
+            "description": "Using simplified institution name"
+          },
+          "coordinates": [
+            76.2073726,
+            10.3469253
+          ],
+          "formatted_address": "86W4+QWH, Irinjalakuda, Kerala 680121, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        },
+        {
+          "strategy": {
+            "query": "St. 's College, Irinjalakuda, thrissur-680 121, thrissur, Kerala, India",
+            "name": "Address Without Name",
+            "description": "Using address with institution name removed"
+          },
+          "coordinates": [
+            76.2148015,
+            10.3399489
+          ],
+          "formatted_address": "86Q7+XWF, Kodungallur - Shornur Rd, Irinjalakuda, Kerala 680661, India",
+          "validation": {
+            "is_valid": true,
+            "confidence": "LOW",
+            "in_kerala": true,
+            "in_expected_district": false,
+            "actual_district": "palakkad",
+            "distance_from_expected": null,
+            "warnings": [
+              "Expected thrissur, found in palakkad"
+            ]
+          }
+        }
+      ],
+      "best_result": {
+        "strategy": {
+          "query": "St. Joseph's College, Irinjalakuda, thrissur-680 121, thrissur, Kerala, India",
+          "name": "Address Only",
+          "description": "Using cleaned address without institution name"
+        },
+        "coordinates": [
+          76.2148015,
+          10.3399489
+        ],
+        "formatted_address": "86Q7+XWF, Kodungallur - Shornur Rd, Irinjalakuda, Kerala 680661, India",
+        "validation": {
+          "is_valid": true,
+          "confidence": "LOW",
+          "in_kerala": true,
+          "in_expected_district": false,
+          "actual_district": "palakkad",
+          "distance_from_expected": null,
+          "warnings": [
+            "Expected thrissur, found in palakkad"
+          ]
+        }
+      },
+      "timestamp": "2025-05-28T19:37:45.367314"
+    }
+  ]
+}
